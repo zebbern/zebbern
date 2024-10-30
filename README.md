@@ -17,10 +17,10 @@
 ---
 <br><br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="250" width="250"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zebbern&theme=dark&hide_border=true" height="250" width="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="300" width="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zebbern&theme=dark&hide_border=true" height="300" width="300"/>
 </p>
----
+
 <br><br/>
 
 [![](https://visitcount.itsvg.in/api?id=zebbern&icon=0&color=0)](https://visitcount.itsvg.in)
