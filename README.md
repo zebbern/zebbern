@@ -1,4 +1,8 @@
-![Welcome](https://img.shields.io/badge/Welcome_to_my_page-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
 
 
 
