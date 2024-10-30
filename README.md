@@ -6,10 +6,10 @@
 💡 Ask me about Capture The Flag (CTF) challenges—I'm actively participating and constantly learning!<br><br>
 ⚡ Fun fact: I'm passionate about building my own home lab and experimenting with new cybersecurity tools in my free time.<br><br>
 
-```🛠️```　　　　　　　　　　　　　　　　　　　　  　　　　|
-```Currently working on improving```　　　　　　　　　　|
-```2 years of experience in penetration testing,```　　|
-```using tools like Kali Linux```　　　　　　　　　　　　|
+```🛠️```　　　　　　　　　　　　　　　　　　　　  　　　　|```🛠️```　　　　　　　　　　　　　　　　　　　　  　　　　|
+```Currently working on improving```　　　　　　　　　　|```Currently working on improving```　　　　　　　　　　|
+```2 years of experience in penetration testing,```　　|```2 years of experience in penetration testing,```　　|
+```using tools like Kali Linux```　　　　　　　　　　　　|```using tools like Kali Linux```　　　　　　　　　　　　|
 
 
 ## 🌐 Socials:
