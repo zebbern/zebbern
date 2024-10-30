@@ -6,41 +6,6 @@
 💡 Ask me about Capture The Flag (CTF) challenges—I'm actively participating and constantly learning!<br><br>
 ⚡ Fun fact: I'm passionate about building my own home lab and experimenting with new cybersecurity tools in my free time.<br><br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-  <!-- Box 1 -->
-  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
-    <strong>🛠️ Currently Working On</strong><br>
-    Improving my ethical hacking skills with 2 years of experience in penetration testing, using tools like Kali Linux.
-  </div>
-
-  <!-- Box 2 -->
-  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
-    <strong>🤝 Collaboration Interests</strong><br>
-    Looking to collaborate with others interested in cybersecurity, especially in areas like network defense, ethical hacking, and web security.
-  </div>
-
-  <!-- Box 3 -->
-  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
-    <strong>🌱 Learning</strong><br>
-    Currently learning more about cybersecurity techniques, such as network defense and vulnerability assessments, through courses like TCM Security and Udemy. Expanding web skills with HTML, CSS, JavaScript, and MySQL.
-  </div>
-
-  <!-- Box 4 -->
-  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
-    <strong>💡 Ask Me About CTFs</strong><br>
-    Ask me about Capture The Flag (CTF) challenges—I'm actively participating and constantly learning!
-  </div>
-
-  <!-- Box 5 -->
-  <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
-    <strong>⚡ Fun Fact</strong><br>
-    I'm passionate about building my own home lab and experimenting with new cybersecurity tools in my free time.
-  </div>
-
-</div>
-
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cc_pz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zebastian-r%C3%B8dsten/)
