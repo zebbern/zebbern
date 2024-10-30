@@ -1,12 +1,10 @@
-<div align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXo3NjkycjA3b25udXVqZDY3d3NybDR6MzJpd2planlob3BnbnNhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" alt="welcome_gif" width="200" height="100">
-</div>
+<p align="left"><img src="party-furby.gif" align="left" width="60"></p> <p align="left"><img src="party-furby.gif" align="right" width="60"></p>
+
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cbfb9c79-9733-48d1-8e91-0db6557760ef" alt="kawaii_welcome_2" width="500" height="300">
 </div>
 
-<p align="left"><img src="party-furby.gif" align="left" width="60"></p> <p align="left"><img src="party-furby.gif" align="left" width="60"></p>
 
 
   
