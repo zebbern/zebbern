@@ -6,6 +6,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXo3NjkycjA3b25udXVqZDY3d3NybDR6MzJpd2planlob3BnbnNhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" alt="welcome_gif" width="400" height="200">
 </div>
 
+<img src="party-furby.gif" align="right" width="60">
 
 
   
