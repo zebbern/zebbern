@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="320" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zebbern&theme=dark&hide_border=true" width="360" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zebbern&theme=dark&hide_border=true" width="350" height="165"/>
 </p>
 
 
