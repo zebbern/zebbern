@@ -1,6 +1,7 @@
-![Rainbow Gradient Welcome](https://media.giphy.com/media/l0HlvOnUasHogntJ2/giphy.gif)
-![Sparkle Welcome](https://media.giphy.com/media/xUPGcAKIOW3sWBi1tO/giphy.gif)
-![Retro Neon Welcome](https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif)
+![Colorful Text Welcome](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
+![Rainbow Celebration Welcome](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+![Simple Welcome Wave](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+
 
 
   
