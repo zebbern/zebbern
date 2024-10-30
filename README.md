@@ -18,8 +18,6 @@
 [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white)](https://www.raspberrypi.org/)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-lightgrey?logo=kalilinux&logoColor=white)](https://www.kali.org/)
 
-# Stats:
-
 
 ## 🏆 Github Profile Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=zebbern&theme=onedark)
