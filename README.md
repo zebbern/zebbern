@@ -1,6 +1,17 @@
 <div align="center">
   <h1> 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 </h1>
-  
+</div>
+
+<div align="center">
+  <h1>Welcome to My GitHub Profile</h1>
+  <p><strong>Meet the Team of Characters Who Inspire My Work!</strong></p>
+
+  <!-- Varying Rotations and Sizes for a Dynamic Layout -->
+  <img src="test.png" width="150" style="padding: 10px; transform: rotate(-10deg) translateY(-10px);" alt="Character 1">
+  <img src="test2.png" width="170" style="padding: 10px; transform: rotate(5deg) translateY(15px);" alt="Character 2">
+  <img src="test3.png" width="150" style="padding: 10px; transform: rotate(-8deg) translateY(-5px);" alt="Character 3">
+  <img src="test4.png" width="160" style="padding: 10px; transform: rotate(10deg) translateY(10px);" alt="Character 4">
+  <img src="test5.png" width="150" style="padding: 10px; transform: rotate(-5deg) translateY(-15px);" alt="Character 5">
 </div>
 
 
