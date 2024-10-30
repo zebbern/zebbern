@@ -1,8 +1,4 @@
-![Welcome](https://img.shields.io/badge/Welcome_to_my_page-ff69b4?style=for-the-badge&logo=github&logoColor=white)
-![Welcome](https://img.shields.io/badge/👋-Welcome_to_my_page-ff69b4?style=for-the-badge)
-![Welcome](https://img.shields.io/badge/GitHub-Welcome_to_my_page-181717?style=for-the-badge&logo=github)
-![Welcome](https://img.shields.io/badge/💖-Welcome_to_my_page-ff69b4?style=for-the-badge)
-![Welcome](https://img.shields.io/badge/Welcome_to_my_page-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)
+![Welcome](https://img.shields.io/badge/Welcome_to_my_page-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 
