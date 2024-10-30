@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cbfb9c79-9733-48d1-8e91-0db6557760ef" alt="kawaii_welcome_2" width="600" height="400">
+  <img src="https://github.com/user-attachments/assets/cbfb9c79-9733-48d1-8e91-0db6557760ef" alt="kawaii_welcome_2" width="600" height="300">
 </div>
 
 
