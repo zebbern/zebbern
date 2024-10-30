@@ -1,4 +1,4 @@
-<p align="left"><img src="party-furby.gif" align="left" width="60"></p> <p align="left"><img src="party-furby.gif" align="right" width="60"></p>
+<p align="left"><img src="party-furby.gif" align="left" width="50"></p> <p align="left"><img src="party-furby.gif" align="right" width="50"></p>
 
 
 <div align="center">
