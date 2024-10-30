@@ -18,7 +18,7 @@
 <br><br/>
 
 <p align="center">
-  <strong>✧ 𝓢𝓽𝓪𝓽𝓼 ✧</strong>
+  <h2><strong>✧ 𝓢𝓽𝓪𝓽𝓼 ✧</strong></h2>
 </p>
 
 <p align="center">
