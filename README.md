@@ -1,4 +1,10 @@
-<p align="left"><img src="party-furby.gif" align="left" width="50"></p> <p align="left"><img src="party-furby.gif" align="right" width="50"></p>
+<p align="center">
+  <img src="party-furby.gif" width="40">
+  <img src="party-furby.gif" width="45">
+  <img src="party-furby.gif" width="50">
+  <img src="party-furby.gif" width="45">
+  <img src="party-furby.gif" width="40">
+</p>
 
 
 <div align="center">
