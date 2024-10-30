@@ -17,9 +17,9 @@
 ---
 <br><br/>
 
-<p align="center">
+<h2 align="center">
   <h2><strong>✧ 𝓢𝓽𝓪𝓽𝓼 ✧</strong></h2>
-</p>
+</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="370" height="300"/>
