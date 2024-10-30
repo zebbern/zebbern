@@ -38,6 +38,14 @@
   <h1><strong>🏆 Github Profile Trophy</strong></h1>
 </div>
 
+<div align="center">
+  <a href="https://github.com/zebbern/">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=zebbern&column=10&theme=gruvbox&no-frame=true"/>
+  </a>
+</div>
+
+<div align="center">
+  
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -48,8 +56,9 @@
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white)](https://www.raspberrypi.org/)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-lightgrey?logo=kalilinux&logoColor=white)](https://www.kali.org/)
-<br><br/>
-![trophy](https://github-profile-trophy.vercel.app/?username=zebbern&theme=onedark)
+
+</div>
+
 ---
 <br><br/>
 
