@@ -11,7 +11,7 @@
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white)](https://www.raspberrypi.org/)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-lightgrey?logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-lightgrey?logo=kalilinux&logoColor=white)](https://www.kali.org/)<br/>
 ![trophy](https://github-profile-trophy.vercel.app/?username=zebbern&theme=onedark)
 ---
 
