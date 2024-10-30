@@ -12,13 +12,6 @@
   <img src="test3.png" width="180" height="180" alt="Right Image">
 </div>
 
-
-🎓 Cybersecurity student with hands-on experience in [ethical hacking](https://www.hacker101.com/), [network defense](https://tryhackme.com/), and [vulnerability assessment](https://owasp.org/www-project-top-ten/). Passionate about expanding skills in [threat analysis](https://attack.mitre.org/) and [information security](https://www.coursera.org/specializations/ibm-cybersecurity-analyst) through real-world projects and certifications.
-
-
-  
-
-
 <div align="center">
   <table>
     <tr>
@@ -29,6 +22,10 @@
     </tr>
   </table>
 </div>
+
+- *[Ethical Hacking](https://www.hacker101.com/)*
+- *[Network Defense](https://tryhackme.com/)*
+- *[Vulnerability Assessment](https://owasp.org/www-project-top-ten/)*
 
 
 </div>
