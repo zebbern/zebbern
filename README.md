@@ -4,9 +4,9 @@
 ## 🏆 Github Profile Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=zebbern&theme=onedark)
 ---
-
+```
 ![](https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=zebbern&theme=dark&hide_border=true)<br/>
-
+```
 
 ## 💻 Tech Stack:
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
