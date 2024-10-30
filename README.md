@@ -1,7 +1,5 @@
-![Neon Welcome Transparent](https://media.giphy.com/media/Zd6s0BmZT9MTS/giphy.gif)
-![Sparkle Text Welcome](https://media.giphy.com/media/j0HjChGV0J44KrrNjS/giphy.gif)
-![Simple Transparent Welcome](https://media.giphy.com/media/xUOwGch6PczrA9RM6Q/giphy.gif)
 
+![kawaii_welcome_2](https://github.com/user-attachments/assets/cbfb9c79-9733-48d1-8e91-0db6557760ef)
 
 
 
