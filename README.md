@@ -6,11 +6,6 @@
 💡 Ask me about Capture The Flag (CTF) challenges—I'm actively participating and constantly learning!<br><br>
 ⚡ Fun fact: I'm passionate about building my own home lab and experimenting with new cybersecurity tools in my free time.<br><br>
 
-|----------------------------------|----------------------------------|----------------------------------|<br><br>
-|----------------------------------|----------------------------------|----------------------------------|<br><br>
-|----------------------------------|----------------------------------|----------------------------------|<br><br>
-|----------------------------------|----------------------------------|----------------------------------|<br><br>
-|----------------------------------|----------------------------------|----------------------------------|<br><br>
 
 ![Under Construction](https://media.giphy.com/media/1lqZ5xKhO7jT2Dgpds/giphy.gif)
 
