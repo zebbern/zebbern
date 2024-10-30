@@ -1,25 +1,3 @@
-![Welcome Neon Sign](https://media.giphy.com/media/l1J9rf5aUppGt7xbi/giphy.gif)
-![Rainbow Welcome](https://media.giphy.com/media/3og0IV8zXZmJGLZb4o/giphy.gif)
-![3D Welcome Text](https://media.giphy.com/media/xUOxf9OV1FzUz1t6hi/giphy.gif)
-![Colorful Animated Welcome](https://media.giphy.com/media/l0HlvOnUasHogntJ2/giphy.gif)
-![Retro Welcome Sign](https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif)
-![Pink Sparkly Welcome](https://media.giphy.com/media/xThtaeDNxvPRy5dLaA/giphy.gif)
-![Glowing Welcome](https://media.giphy.com/media/l1J9wtALWnCApI5iI/giphy.gif)
-![Gold Welcome](https://media.giphy.com/media/l1KszjNsHgZZTCr9S/giphy.gif)
-![Flashing Welcome Sign](https://media.giphy.com/media/l0IyiRBOGfSaT8Oju/giphy.gif)
-![Colorful Text Welcome](https://media.giphy.com/media/xUPGcAKIOW3sWBi1tO/giphy.gif)
-![Neon Welcome to the Party](https://media.giphy.com/media/xUPJPNgoemXiWCfZNS/giphy.gif)
-![Animated Glitter Welcome](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)
-![Welcome Confetti](https://media.giphy.com/media/3og0IWtAqxuDkz5qLC/giphy.gif)
-![Animated Balloon Welcome](https://media.giphy.com/media/xT1R9J1Sw5KIjt5nEQ/giphy.gif)
-![Blue Neon Welcome](https://media.giphy.com/media/1zjTz6cdLFJoO/giphy.gif)
-![Vintage Welcome Sign](https://giphy.com/media/l1KVmTD9u1BJx8rCE/giphy.gif)
-![Festive Welcome](https://giphy.com/media/xT0BKlIRQS5NLyDeAw/giphy.gif)
-![Shiny Text Welcome](https://giphy.com/media/1xnTql9Sg5EyBwcgso/giphy.gif)
-![Excited Welcome](https://giphy.com/media/5t9xRVKCyfKOxYsfnE/giphy.gif)
-![Fun Welcome Text](https://giphy.com/media/l378vm9z49KyBe52A/giphy.gif)
-
-
 
 
 
@@ -41,11 +19,11 @@
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-lightgrey?logo=kalilinux&logoColor=white)](https://www.kali.org/)
 
 # Stats:
-![](https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=zebbern&theme=dark&hide_border=true)<br/>
 
-## Trophies:
+
+## 🏆 Github Profile Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=zebbern&theme=onedark)
 ---
 [![](https://visitcount.itsvg.in/api?id=zebbern&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=zebbern&theme=dark&hide_border=true)<br/>
