@@ -1,5 +1,5 @@
 
-align="center" ![kawaii_welcome_2](https://github.com/user-attachments/assets/cbfb9c79-9733-48d1-8e91-0db6557760ef)
+<![kawaii_welcome_2](https://github.com/user-attachments/assets/cbfb9c79-9733-48d1-8e91-0db6557760ef)align="center">
 
 
   
