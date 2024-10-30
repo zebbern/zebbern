@@ -1,11 +1,4 @@
-![Minimalist Floating Text](https://media.giphy.com/media/xTiTne2UxNZhcJg6qE/giphy.gif)
-![Retro Funky Welcome](https://media.giphy.com/media/26xBN85aBLk1kESpa/giphy.gif)
-![Elegant Glitter Welcome](https://media.giphy.com/media/xTiIzIUVrVOpuA2Ou8/giphy.gif)
-![Welcome Wave](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
-![Synthwave Welcome](https://media.giphy.com/media/3og0IExOJMOyKsE9OQ/giphy.gif)
 ![Rainbow Gradient Welcome](https://media.giphy.com/media/l0HlvOnUasHogntJ2/giphy.gif)
-![3D Text Welcome](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
-![Galaxy Background Welcome](https://media.giphy.com/media/1xVZBXcD9EBFw/giphy.gif)
 ![Sparkle Welcome](https://media.giphy.com/media/xUPGcAKIOW3sWBi1tO/giphy.gif)
 ![Retro Neon Welcome](https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif)
 
