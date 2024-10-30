@@ -7,7 +7,7 @@
 ⚡ Fun fact: I'm passionate about building my own home lab and experimenting with new cybersecurity tools in my free time.<br><br>
 
 
-![Under Construction](https://media.giphy.com/media/1lqZ5xKhO7jT2Dgpds/giphy.gif)
+![Under Construction](https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cc_pz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zebastian-r%C3%B8dsten/)
