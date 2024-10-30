@@ -15,6 +15,9 @@
 <br><br/>
 ![trophy](https://github-profile-trophy.vercel.app/?username=zebbern&theme=onedark)
 ---
+<p align="center">
+  <strong>✦ ✧ 𝓢𝓽𝓪𝓽𝓼 ✧ ✦</strong>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="370" height="300"/>
