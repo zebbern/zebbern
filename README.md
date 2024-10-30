@@ -20,8 +20,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="300"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zebbern&theme=dark&hide_border=true" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="auto"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zebbern&theme=dark&hide_border=true" width="auto"/>
 </p>
 
 
