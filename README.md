@@ -13,6 +13,7 @@
 </div>
 
 
+🎓 Cybersecurity student with hands-on experience in [ethical hacking](https://www.hacker101.com/), [network defense](https://tryhackme.com/), and [vulnerability assessment](https://owasp.org/www-project-top-ten/). Passionate about expanding skills in [threat analysis](https://attack.mitre.org/) and [information security](https://www.coursera.org/specializations/ibm-cybersecurity-analyst) through real-world projects and certifications.
 
 
   
