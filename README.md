@@ -12,6 +12,8 @@
 |----------------------------------|----------------------------------|----------------------------------|<br><br>
 |----------------------------------|----------------------------------|----------------------------------|<br><br>
 
+| ![Furby Party](https://github.com/yourusername/yourrepository/raw/main/party-furby.gif) | ![Unicorn](https://github.com/yourusername/yourrepository/raw/main/unicorn.gif) | ![Cat Typing](https://github.com/yourusername/yourrepository/raw/main/cat-typing.gif) |
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cc_pz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zebastian-r%C3%B8dsten/)
 
