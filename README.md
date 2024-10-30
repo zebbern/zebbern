@@ -1,6 +1,7 @@
-![Colorful Text Welcome](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
-![Rainbow Celebration Welcome](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
-![Simple Welcome Wave](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+![Neon Welcome Transparent](https://media.giphy.com/media/Zd6s0BmZT9MTS/giphy.gif)
+![Sparkle Text Welcome](https://media.giphy.com/media/j0HjChGV0J44KrrNjS/giphy.gif)
+![Simple Transparent Welcome](https://media.giphy.com/media/xUOwGch6PczrA9RM6Q/giphy.gif)
+
 
 
 
