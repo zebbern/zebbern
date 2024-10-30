@@ -1,10 +1,10 @@
 #  👨‍💻 About Me:
 
-```🛠️ Currently working on improving my ethical hacking skills with 2 years of experience in penetration testing, using tools like Kali Linux.```<br><br>
-```🤝 Looking to collaborate with others interested in cybersecurity, especially in areas like network defense, ethical hacking, and web security.```<br><br>
-```🌱 I'm currently learning more about cybersecurity techniques such as network defense and vulnerability assessments through courses like TCM Security and Udemy. I'm also expanding my web skills with HTML, CSS, JavaScript, and MySQL.```<br><br>
-```💡 Ask me about Capture The Flag (CTF) challenges—I'm actively participating and constantly learning!```<br><br>
-```⚡ Fun fact: I'm passionate about building my own home lab and experimenting with new cybersecurity tools in my free time.```<br><br>
+🛠️ Currently working on improving my ethical hacking skills with 2 years of experience in penetration testing, using tools like Kali Linux.<br><br>
+🤝 Looking to collaborate with others interested in cybersecurity, especially in areas like network defense, ethical hacking, and web security.<br><br>
+🌱 I'm currently learning more about cybersecurity techniques such as network defense and vulnerability assessments through courses like TCM Security and Udemy. I'm also expanding my web skills with HTML, CSS, JavaScript, and MySQL.<br><br>
+💡 Ask me about Capture The Flag (CTF) challenges—I'm actively participating and constantly learning!<br><br>
+⚡ Fun fact: I'm passionate about building my own home lab and experimenting with new cybersecurity tools in my free time.<br><br>
 
 
 ## 🌐 Socials:
