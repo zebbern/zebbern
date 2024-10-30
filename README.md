@@ -1,19 +1,35 @@
-<p align="center">
-  <img src="party-furby.gif" width="40">
-  <img src="party-furby.gif" width="45">
-  <img src="party-furby.gif" width="50">
-  <img src="party-furby.gif" width="45">
-  <img src="party-furby.gif" width="40">
-</p>
-
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cbfb9c79-9733-48d1-8e91-0db6557760ef" alt="kawaii_welcome_2" width="500" height="300">
+  <h1> 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 </h1>
+  
 </div>
 
 
 
-  
+
+
+
+
+
+
+
+<div align="center">
+  <img src="test5.png" width="180" height="180" style="padding: 20px; transform: rotate(-10deg);" alt="Bear Glasses">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><br><b>👨‍💻 Ethical Hacker</b></td>
+      <td align="center"><br><b>🛡️ CompTIA Security+</b></td>
+      <td align="center"><br><b>🏆 CEH</b></td>
+      <td align="center"><br><b>👨‍💻 OSCP In Progress</b></td>
+    </tr>
+  </table>
+</div>
+
+
+  <br><br/>
+  <br><br/>
 
 
 <div align="center">
