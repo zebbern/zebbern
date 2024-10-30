@@ -4,7 +4,6 @@
   <h1><strong>🏆 Github Profile Trophy</strong></h1>
 </div>
 
-
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -23,7 +22,6 @@
 <div align="center">
   <h1><strong>✧ 𝓢𝓽𝓪𝓽𝓼 ✧</strong></h1>
 </div>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="370" height="300"/>
