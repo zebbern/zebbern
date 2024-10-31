@@ -25,7 +25,7 @@
 
 - *[Ethical Hacking](https://www.hacker101.com/)*
 - *[Network Defense](https://tryhackme.com/)*
-- *[Vulnerability Assessment](https://owasp.org/www-project-top-ten/)*
+- *[Vulnerability Assessment](https://www.reflectiz.com/blog/owasp-top-ten-2024/)*
 
 
 </div>
