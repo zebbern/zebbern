@@ -29,9 +29,9 @@
 
 | *[Ethical Hacking](https://www.hacker101.com/)* | *[Network Defense](https://tryhackme.com/)* | *[Vulnerability Assessment](https://www.reflectiz.com/blog/owasp-top-ten-2024/)* |
   <br><br/>
-| *[Ethical Hacking](https://www.hacker101.com/)* | *[Network Defense](https://tryhackme.com/)* | *[Vulnerability Assessment](https://www.reflectiz.com/blog/owasp-top-ten-2024/)* |
+| *[Ongoing........](https://www.hacker101.com/)* | *[Ongoing........](https://tryhackme.com/)* | *[Ongoing........](https://www.reflectiz.com/blog/owasp-top-ten-2024/)* |
   <br><br/>
-| *[Ethical Hacking](https://www.hacker101.com/)* | *[Network Defense](https://tryhackme.com/)* | *[Vulnerability Assessment](https://www.reflectiz.com/blog/owasp-top-ten-2024/)* |
+| *[Ongoing........](https://www.hacker101.com/)* | *[Ongoing........](https://tryhackme.com/)* | *[Ongoing........](https://www.reflectiz.com/blog/owasp-top-ten-2024/)* |
 </div>
 
 
