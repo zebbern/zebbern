@@ -23,11 +23,22 @@
 </div>
 
   <br><br/>
-- *[Ethical Hacking](https://www.hacker101.com/)*
-- *[Network Defense](https://tryhackme.com/)*
-- *[Vulnerability Assessment](https://www.reflectiz.com/blog/owasp-top-ten-2024/)*
 
 
+<div align="center">
+
+<h3>Quick Links To Some Of My Popular Repositories</h3>
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+| *[Ethical Hacking](https://www.hacker101.com/)* | *[Network Defense](https://tryhackme.com/)* | *[Vulnerability Assessment](https://www.reflectiz.com/blog/owasp-top-ten-2024/)* |
+
+</div>
+
+
+
+  <br><br/>
+
+  
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="370" height="300"/>
