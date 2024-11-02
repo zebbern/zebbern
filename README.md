@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="welcome2.gif" width="65%" height="90" alt="Image">
+  <h2>|  𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞  |</h2>
 </div>
 
 
@@ -21,24 +21,20 @@
     </tr>
   </table>
 </div>
-
-  <br><br/>
+<div align="center"><img src="cons.gif" width="65%" height="90" alt="Image"></div>
 
 
 <div align="center">
-
 <h3>Quick Links To Some Of My Popular Repositories</h3>
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 | *[Ethical Hacking](https://www.hacker101.com/)* | *[Network Defense](https://tryhackme.com/)* | *[Vulnerability Assessment](https://www.reflectiz.com/blog/owasp-top-ten-2024/)* |
-
+  <br><br/>
+| *[Ethical Hacking](https://www.hacker101.com/)* | *[Network Defense](https://tryhackme.com/)* | *[Vulnerability Assessment](https://www.reflectiz.com/blog/owasp-top-ten-2024/)* |
+  <br><br/>
+| *[Ethical Hacking](https://www.hacker101.com/)* | *[Network Defense](https://tryhackme.com/)* | *[Vulnerability Assessment](https://www.reflectiz.com/blog/owasp-top-ten-2024/)* |
 </div>
 
 
-
-  <br><br/>
-
-  
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="370" height="300"/>
