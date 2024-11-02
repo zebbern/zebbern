@@ -5,11 +5,11 @@
 
 
 <div align="center">
-  <img src="test.png" width="180" height="180" alt="Left Image">
+  <img src="test.png" width="22%" height="180" alt="Left Image">
+  &nbsp;&nbsp;<!-- Adjust the number of these for spacing -->
+  <img src="test5.png" width="25%" height="190" alt="Center Image">
   &nbsp;&nbsp;&nbsp;&nbsp;<!-- Adjust the number of these for spacing -->
-  <img src="test5.png" width="180" height="180" alt="Center Image">
-  &nbsp;&nbsp;&nbsp;&nbsp;<!-- Adjust the number of these for spacing -->
-  <img src="test3.png" width="180" height="180" alt="Right Image">
+  <img src="test3.png" width="22%" height="180" alt="Right Image">
 </div>
 
 <div align="center">
