@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="welcome2.gif" width="70%" height="110" alt="Left Image">
+  <img src="welcome2.gif" width="65%" height="100" alt="Image">
 </div>
 
 
