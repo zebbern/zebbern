@@ -1,10 +1,4 @@
 <div align="center">
-  <h1> 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 </h1>
-</div>
-  <br><br/>
-
-
-<div align="center">
   <img src="black.png" width="17%" height="100" alt="Left Image">
   <img src="arrow2.png" width="13%" height="50" alt="Right Image">
   <img src="test9.png" width="20%" height="200" alt="Center Image">
