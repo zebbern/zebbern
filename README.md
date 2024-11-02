@@ -45,7 +45,7 @@
   <h1><strong>🏆 Github Profile Trophy</strong></h1>
 
   <a href="https://github.com/zebbern/">
-    <img width=900 src="https://github-profile-trophy.vercel.app/?username=zebbern&column=10&theme=gruvbox&no-frame=true"/>
+    <img width=900 src="https://github-profile-trophy.vercel.app/?username=zebbern&column=5&theme=gruvbox&no-frame=true"/>
   </a>
   
 
