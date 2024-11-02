@@ -6,9 +6,11 @@
 
 <div align="center">
   <img src="black.png" width="17%" height="100" alt="Left Image">
+  &nbsp;&nbsp;
   <img src="arrow2.png" width="10%" height="70" alt="Right Image">
   <img src="test9.png" width="20%" height="200" alt="Center Image">
-  <img src="arrow2.png" width="10%" height="70" alt="Right Image">
+  &nbsp;&nbsp;
+  <img src="arrow2b.png" width="10%" height="70" alt="Right Image">
   <img src="blue.png" width="17%" height="100" alt="Right Image">
 </div>
 
