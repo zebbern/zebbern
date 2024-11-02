@@ -7,7 +7,7 @@
 <div align="center">
   <img src="test.png" width="25%" height="180" alt="Left Image">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- Adjust the number of these for spacing -->
-  <img src="test5.png" width="21%" height="190" alt="Center Image">
+  <img src="test9.png" width="21%" height="190" alt="Center Image">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- Adjust the number of these for spacing -->
   <img src="test3.png" width="25%" height="180" alt="Right Image">
 </div>
