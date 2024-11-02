@@ -25,7 +25,7 @@
 
 
 <div align="center">
-<h3>Quick Links To Some Of My Popular Repositories</h3>
+<h3>Quick Links To Some Of My Favourite Repositories</h3>
 
 | *[Ethical Hacking](https://www.hacker101.com/)* | *[Network Defense](https://tryhackme.com/)* | *[Vulnerability Assessment](https://www.reflectiz.com/blog/owasp-top-ten-2024/)* |
   <br><br/>
