@@ -6,9 +6,9 @@
 
 <div align="center">
   <img src="black.png" width="17%" height="100" alt="Left Image">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- Adjust the number of these for spacing -->
-  <img src="test9.png" width="21%" height="190" alt="Center Image">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- Adjust the number of these for spacing -->
+  <img src="arrow2.png" width="10%" height="70" alt="Right Image">
+  <img src="test9.png" width="20%" height="200" alt="Center Image">
+  <img src="arrow2.png" width="10%" height="70" alt="Right Image">
   <img src="blue.png" width="17%" height="100" alt="Right Image">
 </div>
 
