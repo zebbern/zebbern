@@ -29,7 +29,7 @@
 
 | *[Ethical Hacking](https://www.hacker101.com/)* | *[Network Defense](https://tryhackme.com/)* | *[Vulnerability Assessment](https://www.reflectiz.com/blog/owasp-top-ten-2024/)* |
   <br><br/>
-| *[Ongoing........](https://www.hacker101.com/)* | *[Ongoing........](https://tryhackme.com/)* | *[Ongoing.................](https://www.reflectiz.com/blog/owasp-top-ten-2024/)* |
+| *[CTF Resources](https://www.hacker101.com/)*ㅤ | *[PentestingGuide](https://tryhackme.com/)* | *[Ai/GPT Optimization](https://www.reflectiz.com/blog/owasp-top-ten-2024/)* ㅤㅤㅤ|
   <br><br/>
 | *[Ongoing........](https://www.hacker101.com/)* | *[Ongoing........](https://tryhackme.com/)* | *[Ongoing.................](https://www.reflectiz.com/blog/owasp-top-ten-2024/)* |
 </div>
