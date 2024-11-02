@@ -17,6 +17,8 @@
   </table>
 </div>
 
+  <br><br/>
+
 - *[Ethical Hacking](https://www.hacker101.com/)*
 - *[Network Defense](https://tryhackme.com/)*
 - *[Vulnerability Assessment](https://www.reflectiz.com/blog/owasp-top-ten-2024/)*
