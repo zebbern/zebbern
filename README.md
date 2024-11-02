@@ -25,13 +25,13 @@
 
 
 <div align="center">
+
 <h3>Quick Links To Some Of My Favourite Repositories</h3>
 
-| *[Ethical Hacking](https://www.hacker101.com/)* | *[Network Defense](https://tryhackme.com/)* | *[Vulnerability Assessment](https://www.reflectiz.com/blog/owasp-top-ten-2024/)* |
-  <br><br/>
-| *[CTF Resources](https://www.hacker101.com/)*ㅤ | *[PentestingGuide](https://tryhackme.com/)* | *[Ai/GPT Optimization](https://www.reflectiz.com/blog/owasp-top-ten-2024/)* ㅤㅤㅤ|
-  <br><br/>
-| *[Ongoing........](https://www.hacker101.com/)* | *[Ongoing........](https://tryhackme.com/)* | *[Ongoing.................](https://www.reflectiz.com/blog/owasp-top-ten-2024/)* |
+*[Ethical Hacking](https://www.hacker101.com/)*ㅤ|ㅤ*[Network Defense](https://tryhackme.com/)*ㅤ|ㅤ*[Google Dorking](https://github.com/zebbern/GoogleDorking)*  
+<br>
+*[CTF Challenges](https://github.com/zebbern/CTF-Resources)*ㅤ|ㅤ*[Pentesting Guide](https://github.com/zebbern/Pentesting-Guide)*ㅤ|ㅤ*[AI GPT Resources](https://github.com/zebbern/GPTPrompts)*  
+
 </div>
 
 
