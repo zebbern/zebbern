@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<h3>Quick Links To Some Of My Favourite Repositories</h3>
+### Quick Links to Key Cybersecurity and AI Resources
 
 *[Ethical Hacking](https://www.hacker101.com/)*ㅤ|ㅤ*[Network Defense](https://tryhackme.com/)*ㅤ|ㅤ*[Google Dorking](https://github.com/zebbern/GoogleDorking)*  
 <br>
