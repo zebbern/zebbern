@@ -21,7 +21,7 @@
     </tr>
   </table>
 </div>
-<div align="center"><img src="cons.gif" width="95%" height="90" alt="Image"></div>
+<div align="center"><img src="cons.gif" width="85%" height="70" alt="Image"></div>
 
 
 <div align="center">
