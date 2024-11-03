@@ -4,9 +4,8 @@
 </div>
 
 <div align="center">
-  <h2>|  𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞  |</h2>
+  <img src="welc.gif" width="60%" height="300" alt="Center">
 </div>
-
 
 <div align="center">
   <img src="black.png" width="17%" height="100" alt="Left Image">
