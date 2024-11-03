@@ -38,7 +38,6 @@
 
 </div>
 
-<div align="center"><img src="rob.png" width="100%" height="40" alt="Image"></div>
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="370" height="300"/>
