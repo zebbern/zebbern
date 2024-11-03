@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="welc.gif" width="60%" height="300" alt="Center">
+  <img src="welcome5.gif" width="150%" height="150" alt="Center">
 </div>
 
 <div align="center">
