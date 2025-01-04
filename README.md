@@ -1,6 +1,6 @@
 <div align="right">
   
-![Profile Views](https://komarev.com/ghpvc/?username=zebbern&color=blue&style=flat-square)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue?style=flat-square&logo=github&logoColor=white)
 
 
 </div>
