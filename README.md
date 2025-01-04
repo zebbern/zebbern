@@ -1,8 +1,9 @@
 <div align="right">
   
-[![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzebbern&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![](https://visitor-badge.laobi.icu/badge?page_id=zebbern.visitor-badge)](https://github.com/zebbern)
   
 </div>
+
 
 <div align="center">
   <img src="welc5.gif" width="140%" height="70" alt="Center">
