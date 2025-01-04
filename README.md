@@ -1,6 +1,6 @@
 <div align="right">
   
-![Visitors](https://komarev.com/ghpvc/?username=zebbern&color=ff69b4&label=Visitors)
+![Profile Views](https://img.shields.io/badge/Visitors-Counting-green?style=for-the-badge&color=gradient)
 
 
 </div>
