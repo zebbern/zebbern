@@ -1,6 +1,6 @@
 <div align="right">
   
-![Visits](https://visitor-badge.glitch.me/badge?page_id=zebbern.zebbern)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zebbern.zebbern)
 
 
 </div>
