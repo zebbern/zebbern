@@ -1,6 +1,6 @@
 <div align="right">
   
-![Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?)
+![Visits](https://visitor-badge.glitch.me/badge?page_id=zebbern.zebbern)
 
 
 </div>
