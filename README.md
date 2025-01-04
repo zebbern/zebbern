@@ -1,6 +1,6 @@
 <div align="right">
   
-![Profile Views](https://img.shields.io/badge/Visitors-Counting-green?style=for-the-badge&color=gradient)
+![Profile Views](https://komarev.com/ghpvc/?username=zebbern&color=blue&style=flat-square)
 
 
 </div>
