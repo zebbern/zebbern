@@ -1,7 +1,7 @@
 <div align="right">
-  
-[![](https://visitor-badge.laobi.icu/badge?page_id=zebbern.visitor-badge)](https://github.com/zebbern)
-  
+
+[![](https://visitor-badge.laobi.icu/badge?page_id=zebbern)](https://github.com/zebbern)
+
 </div>
 
 
