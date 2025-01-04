@@ -1,6 +1,6 @@
 <div align="right">
   
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zebbern.zebbern)
+![Profile Views](https://komarev.com/ghpvc/?username=zebbern)
 
 
 </div>
