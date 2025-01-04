@@ -1,8 +1,9 @@
 <div align="right">
 
-[![](https://img.shields.io/badge/visits-0-brightgreen)](https://github.com/zebbern)
+![visits](https://api.countapi.xyz/hit/zebbern.github/visits?label=Visitors&style=flat&color=brightgreen)
 
 </div>
+
 
 
 
