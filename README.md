@@ -1,6 +1,7 @@
 <div align="right">
   
-?logo=github![Profile Views](https://komarev.com/ghpvc/?username=zebbern&color=blue&style=flat-square)
+?logo=github![Profile Views](https://komarev.com/ghpvc/?username=zebbern&color=blue&style=flat-square?logo=github
+)
 
 
 </div>
