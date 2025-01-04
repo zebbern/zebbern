@@ -1,6 +1,6 @@
 <div align="right">
   
-![Bug Fixer Level 1](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYourUsername&count_bg=%23FFC300&title_bg=%23000000&icon=star.svg&icon_color=%23FFFFFF&title=Bug+Fixer+Level+1&edge_flat=false)
+![Issues Solved](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYourUsername&count_bg=%2300FF00&title_bg=%23000000&icon=bug.svg&icon_color=%23FFFFFF&title=Issues+Solved:+891/904&edge_flat=false)
 
 
 </div>
