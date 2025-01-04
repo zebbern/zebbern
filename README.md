@@ -1,7 +1,6 @@
 <div align="right">
   
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-100-blue?style=flat-square&logo=github&logoColor=white)
-)
 
 
 </div>
