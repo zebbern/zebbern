@@ -1,6 +1,6 @@
 <div align="right">
   
-![Profile Views](https://komarev.com/ghpvc/?username=zebbern)
+![Profile Views](https://komarev.com/ghpvc/?username=zebbern&color=blue&style=flat-square)
 
 
 </div>
