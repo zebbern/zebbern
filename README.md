@@ -1,7 +1,6 @@
 <div align="right">
   
-![Profile Visits](https://komarev.com/ghpvc/?username=zebbern&color=blue&style=flat-square)
-
+![](https://komarev.com/ghpvc/?username=your-github-username&base=1000)
 
 </div>
 
