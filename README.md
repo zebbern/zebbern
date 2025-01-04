@@ -1,8 +1,9 @@
 <div align="right">
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=zebbern)](https://github.com/zebbern)
+[![](https://img.shields.io/badge/visits-0-brightgreen)](https://github.com/zebbern)
 
 </div>
+
 
 
 <div align="center">
