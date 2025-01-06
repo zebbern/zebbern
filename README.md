@@ -47,8 +47,10 @@
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="370" height="300"/>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zebbern&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zebbern&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <div align="center">
   
