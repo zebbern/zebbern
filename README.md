@@ -50,6 +50,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zebbern&theme=dark&hide_border=true" width="400" height="300"/>
 </p>
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zebbern&theme=dark&hide_border=true" alt="GitHub Streak" width="400"/>
+</div>
+
+
 
 <div align="center">
   
