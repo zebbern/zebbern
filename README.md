@@ -47,7 +47,7 @@
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="370" height="300"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zebbern&theme=dark&hide_border=true" width="400" height="302"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zebbern&theme=dark&hide_border=true" width="400" height="304"/>
 </p>
 
 <div align="center">
