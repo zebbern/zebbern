@@ -5,10 +5,6 @@
 </div>
 
 
-
-e
-
-
 <div align="center">
   <img src="welc5.gif" width="140%" height="70" alt="Center">
 </div>
