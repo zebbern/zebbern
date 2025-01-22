@@ -12,7 +12,7 @@
 <div align="center">
   <img src="black.png" width="17%" height="100" alt="Left Image">
   <img src="arrow2.png" width="13%" height="50" alt="Right Image">
-  <img src="test9.png" width="20%" height="200" alt="Center Image">
+  <img src="test9.gif" width="20%" height="200" alt="Center Image">
   <img src="arrow2b.png" width="13%" height="50" alt="Right Image">
   <img src="blue.png" width="17%" height="100" alt="Right Image">
 </div>
