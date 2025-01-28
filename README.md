@@ -30,7 +30,7 @@
 
 <div align="center">
 
-## **Recent Projects**
+<h3>**Recent Projects**</h3> 
 
 | Resource | Description | Link |
 |----------|-------------|------|
