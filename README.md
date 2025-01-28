@@ -4,11 +4,6 @@
 
 </div>
 
-
-<div align="center">
-  <img src="welc5.gif" width="140%" height="70" alt="Center">
-</div>
-
 <div align="center">
   <img src="black.png" width="17%" height="100" alt="Left Image">
   <img src="arrow2.png" width="13%" height="50" alt="Right Image">
