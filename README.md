@@ -1,6 +1,6 @@
-<div align="right">
+<div align="left">
   
-![Profile Views](https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic)
+👾 **Bug Hunter**ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ![Profile Views](https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic) 
 
 </div>
 
