@@ -29,17 +29,6 @@
 </div>
 
 
-
-<div align="center">
-
-### Quick Links to Key Cybersecurity and AI Resources
-
-*[Ethical Hacking](https://www.hacker101.com/)*ㅤ|ㅤ*[Network Defense](https://tryhackme.com/)*ㅤ|ㅤ*[Google Dorking](https://github.com/zebbern/GoogleDorking)*  
-<br>
-*[CTF Challenges](https://github.com/zebbern/CTF-Resources)*ㅤ|ㅤ*[Pentesting Guide](https://github.com/zebbern/Pentesting-Guide)*ㅤ|ㅤ*[AI GPT Resources](https://github.com/zebbern/GPTPrompts)*  
-
-</div>
-
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="370" height="300"/>
