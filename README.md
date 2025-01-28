@@ -40,8 +40,6 @@
 
 ---
 
-> Explore more of my projects: [GitHub Repositories](https://github.com/zebbern?tab=repositories)
-
 </div>
 
 </div>
