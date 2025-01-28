@@ -28,6 +28,21 @@
   </table>
 </div>
 
+<div align="center">
+
+### **Recent Projects**
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **Ethical Hacking** | Hands-on tutorials and challenges. | [Hacker101](https://www.hacker101.com/) |
+| **Network Defense** | Interactive learning platform for cybersecurity. | [TryHackMe](https://tryhackme.com/) |
+| **Google Dorking Tool** | Automate Google Dorking queries. | [GitHub Project](https://github.com/zebbern/DorkingTool) |
+
+---
+
+> Explore more of my projects: [GitHub Repositories](https://github.com/zebbern?tab=repositories)
+
+</div>
 
 </div>
 <p align="center">
