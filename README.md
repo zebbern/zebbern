@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<h3>**Recent Projects**</h3> 
+<h3>**Recently Edited**</h3> 
 
 | Resource | Description | Link |
 |----------|-------------|------|
