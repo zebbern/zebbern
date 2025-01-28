@@ -30,7 +30,7 @@
 
 <div align="center">
 
-### **Recent Projects**
+## **Recent Projects**
 
 | Resource | Description | Link |
 |----------|-------------|------|
@@ -38,7 +38,6 @@
 | **Network Defense** | Interactive learning platform for cybersecurity. | [TryHackMe](https://tryhackme.com/) |
 | **Google Dorking Tool** | Automate Google Dorking queries. | [GitHub Project](https://github.com/zebbern/DorkingTool) |
 
----
 
 </div>
 
