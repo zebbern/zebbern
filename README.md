@@ -25,14 +25,14 @@
 
 <div align="center">
 
-![output](https://github.com/user-attachments/assets/c105ca81-3ac0-4f27-bb69-350bcfd456d1)
-
-
-</div>
+<img src="https://github.com/user-attachments/assets/c105ca81-3ac0-4f27-bb69-350bcfd456d1" alt="output" height="500"/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="370" height="300"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zebbern&theme=dark&hide_border=true" width="400" height="301"/>
 </p>
+</div>
+
+
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
