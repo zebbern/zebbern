@@ -10,8 +10,8 @@
 
 
  [!Note]
-> <details>  ‎̖̗̘̙̜̝̞̟̠̤̥̦̩̪̫̬̭̮̯̰         ‎̖̗̘̙̜̝̞̟̠̤̥̦̩̪̫̬̭̮̯̰    <details>  <summary>test</summary> > Hey > How</details>
->  <summary>↓ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ↓</summary>
+> <details>    
+>  <summary>↓ ‎̖̗̘̙̜̝̞̟̠̤̥̦̩̪̫̬̭̮̯̰ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚‎̖̗̘̙̜̝̞̟̠̤̥̦̩̪̫̬̭̮̯̰  ↓</summary>
 >
 > - **Name**: 
 > - **From**: 
@@ -22,7 +22,6 @@
 > - I’m currently learning **everything** 
 > - Reach me out at **kali@proton.me**
 
-</details>
 
 <details>
   <summary>↓ 𝙀𝙭𝙩𝙧𝙖 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨 ↓</summary>
