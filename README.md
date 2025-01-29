@@ -1,6 +1,6 @@
 <div align="left">
   
-👾Bug Hunter                                                                          "͋""͋""͋" <img src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
+👾Bug Hunter                                                                          <img src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
 
 </div>
 
@@ -96,8 +96,4 @@ Adds Trophies on the readme
 -->
 
 
-Hz v w
-Ewwywv
-L zwv 
-L zy v
-Ozy  v
+‎̖̗̘̙̜̝̞̟̠̤̥̦̩̪̫̬̭̮̯̰ 
