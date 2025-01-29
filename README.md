@@ -25,16 +25,8 @@
 
 <div align="center">
 
-<h3>Recent</h3> 
+![output](https://github.com/user-attachments/assets/c105ca81-3ac0-4f27-bb69-350bcfd456d1)
 
-| Resource | Description | Link |
-|----------|-------------|------|
-| **Ethical Hacking** | Hands-on tutorials and challenges. | [Hacker101](https://www.hacker101.com/) |
-| **Network Defense** | Interactive learning platform for cybersecurity. | [TryHackMe](https://tryhackme.com/) |
-| **Google Dorking Tool** | Automate Google Dorking queries. | [GitHub Project](https://github.com/zebbern/DorkingTool) |
-
-
-</div>
 
 </div>
 <p align="center">
