@@ -1,17 +1,21 @@
-<div align="left">
+<div align="right">
   
-👾 **Bug Hunter**ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ![Profile Views](https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic) 
-<details>
-  <summary>↓ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ↓</summary>
+👾 <ins align="left">**Bug Hunter**</ins> ![Profile Views](https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic) 
 
-- **Name**: 
-- **From**: 
-- **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-- i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy.
--**Reverse Engineering**, **Malware Analysis**
-- Improving knowledge in **Website Vulnerabilities**
-- I’m currently learning **everything** 
-- Reach me out at **kali@proton.me**
+</div>
+
+> [!WARNING] 
+> <details>                 <details>  <summary>test</summary> > Hey > How</details>
+>  <summary>↓ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ↓</summary>
+>
+> - **Name**: 
+> - **From**: 
+> - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
+> - i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy.
+> -**Reverse Engineering**, **Malware Analysis**
+> - Improving knowledge in **Website Vulnerabilities**
+> - I’m currently learning **everything** 
+> - Reach me out at **kali@proton.me**
 
 </details>
 
@@ -24,8 +28,6 @@
 
 </details>
 
-
-</div>
 
 <div align="center">
   <img src="black.png" width="17%" height="100" alt="Left Image">
