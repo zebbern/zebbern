@@ -1,16 +1,10 @@
-<div align="left">
-  
-👾Bug Hunter                                                                                                                                          <img src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
-
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
 </div>
 
 
-
-
-
-
 > [!Note]
-> <details>    
+> <details>     [👾Bug Hunter]
 >  <summary>↓ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ↓‎ </summary>
 >
 > - **Name**: 
@@ -30,7 +24,7 @@
 >
 > </details>
 <div align="center">
-  ‎̍̎̄̅̿̑̆̐͒͗͑̇̈̊͂̓̈́͊͋͌̃̂̌͐̀́̋̏̒̓̔̽̉ͣͤͥͦͧͨͩͪͫͬͭͮͯ̾͛͆̍̎̄̅̿̑̆̐͒͗͑̇̈̊͂̓̈́͊͋͌̃̂̌͐̀́̋̏̒̓̔̽̉ͣͤͥͦͧͨͩͪͫͬͭͮͯ̾͛͆̚ 
+  👾Bug‎̍̎̄̅̿̑̆̐͒͗͑̇̈̊͂̓̈́͊͋͌̃̂̌͐̀́̋̏̒̓̔̽̉ͣͤͥͦͧͨͩͪͫͬͭͮͯ̾͛͆̍̎̄̅̿̑̆̐͒͗͑̇̈̊͂̓̈́͊͋͌̃̂̌͐̀́̋̏̒̓̔̽̉ͣͤͥͦͧͨͩͪͫͬͭͮͯ̾͛͆̚ Hunter
 </div>
 <div align="center">
   <img src="black.png" width="17%" height="100" alt="Left Image">
