@@ -97,8 +97,8 @@ Adds Trophies on the readme
 -->
 
 
-H̰̺̫̻̺
-E̦͇̰̦̙
-L̖̖̖͓̤
-L͓̪̱̳̟
-O͔̟̫̫̠
+Hz v w
+Ewwywv
+L zwv 
+L zy v
+Ozy  v
