@@ -96,4 +96,5 @@
 Adds Trophies on the readme
 -->
 
- ‎̼̝͔̩͚ ̳͇̫͔̪                 ‎̏ͪ̒̐͋ ͯͯͥ̋͑
+
+H̽͗͑̆͗ͥ̃̆ͣ̿eͭ͒̇ͭͤ͌̎̿̽̔y̔̌ͤͥ̂̒ͫ͑͗̋This is hidden text!
