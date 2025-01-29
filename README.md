@@ -1,7 +1,19 @@
 <div align="left">
   
 👾 **Bug Hunter**ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ![Profile Views](https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic) 
+<details>
+  <summary>About me:</summary>
 
+- **Name**: 
+- **From**: 
+- **Bug Hunter** | **Security Researcher** | **forensics Analyst**
+- i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy.
+-**Reverse Engineering**, **Malware Analysis**
+- Improving knowledge in **Website Vulnerabilities**
+- I’m currently learning **everything** 
+- Reach me out at **kali@proton.me**
+
+</details>
 </div>
 
 <div align="center">
