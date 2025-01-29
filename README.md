@@ -1,7 +1,6 @@
-<div align="right">
+<div align="left">
   
-👾 <span style="text-align: left;"><ins><strong>Bug Hunter</strong></ins></span> 
-<img src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
+👾Bug Hunter                                                                          "͋""͋""͋" <img src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
 
 </div>
 
