@@ -2,7 +2,7 @@
   
 👾 **Bug Hunter**ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ![Profile Views](https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic) 
 <details>
-  <summary>About me:</summary>
+  <summary>↓ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ↓</summary>
 
 - **Name**: 
 - **From**: 
@@ -14,6 +14,17 @@
 - Reach me out at **kali@proton.me**
 
 </details>
+
+<details>
+  <summary>↓ 𝙀𝙭𝙩𝙧𝙖 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨 ↓</summary>
+
+- 1
+- 2
+- 3
+
+</details>
+
+
 </div>
 
 <div align="center">
