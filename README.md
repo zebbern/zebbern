@@ -3,26 +3,7 @@
 </div>
 
 
-> [!Note]
-> <details>    
->  <summary>↓ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ↓‎ </summary>
->
-> - **Name**: 
-> - **From**: 
-> - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-> - i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy.
-> -**Reverse Engineering**, **Malware Analysis**
-> - Improving knowledge in **Website Vulnerabilities**
-> - I’m currently learning **everything** 
-> - Reach me out at **kali@proton.me**
-> <details>
->  <summary>↓ 𝙀𝙭𝙩𝙧𝙖 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨 ↓</summary>
->
-> - 1
-> - 2
-> - 3
->
-> </details>
+
 <div align="center">
 ‎̍̎̄̅̿̑̆̐͒͗͑̇̈̊͂̓̈́͊͋͌̃̂̌͐̀́̋̏̒̓̔̽̉ͣͤͥͦͧͨͩͪͫͬͭͮͯ̾͛͆̍̎̄̅̿̑̆̐͒͗͑̇̈̊͂̓̈́͊͋͌̃̂̌͐̀́̋̏̒̓̔̽̉ͣͤͥͦͧͨͩͪͫͬͭͮͯ̾͛͆̚ 👾‎̍̎̄̅̿̑̆̐͒͗͑̇̈̊͂̓̈́͊͋͌̃̂̌͐̀́̋̏̒̓̔̽̉ͣͤͥͦͧͨͩͪͫͬͭͮͯ̾͛͆̍̎̄̅̿̑̆̐͒͗͑̇̈̊͂̓̈́͊͋͌̃̂̌͐̀́̋̏̒̓̔̽̉ͣͤͥͦͧͨͩͪͫͬͭͮͯ̾͛͆̚ 
 </div>
@@ -50,6 +31,27 @@
 <img src="https://github.com/user-attachments/assets/c105ca81-3ac0-4f27-bb69-350bcfd456d1" alt="output" height="409"/>
 </div>
 
+
+> [!Note]
+> <details>    
+>  <summary>↓ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ↓‎ </summary>
+>
+> - **Name**: 
+> - **From**: 
+> - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
+> - i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy.
+> -**Reverse Engineering**, **Malware Analysis**
+> - Improving knowledge in **Website Vulnerabilities**
+> - I’m currently learning **everything** 
+> - Reach me out at **kali@proton.me**
+> <details>
+>  <summary>↓ 𝙀𝙭𝙩𝙧𝙖 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨 ↓</summary>
+>
+> - 1
+> - 2
+> - 3
+>
+> </details>
 
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
