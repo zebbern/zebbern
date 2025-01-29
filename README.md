@@ -21,16 +21,14 @@
 > - Improving knowledge in **Website Vulnerabilities**
 > - I’m currently learning **everything** 
 > - Reach me out at **kali@proton.me**
-
-
-<details>
-  <summary>↓ 𝙀𝙭𝙩𝙧𝙖 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨 ↓</summary>
-
-- 1
-- 2
-- 3
-
-</details>
+> <details>
+>  <summary>↓ 𝙀𝙭𝙩𝙧𝙖 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨 ↓</summary>
+>
+> - 1
+> - 2
+> - 3
+>
+> </details>
 <div align="center">
   ‎̍̎̄̅̿̑̆̐͒͗͑̇̈̊͂̓̈́͊͋͌̃̂̌͐̀́̋̏̒̓̔̽̉ͣͤͥͦͧͨͩͪͫͬͭͮͯ̾͛͆̍̎̄̅̿̑̆̐͒͗͑̇̈̊͂̓̈́͊͋͌̃̂̌͐̀́̋̏̒̓̔̽̉ͣͤͥͦͧͨͩͪͫͬͭͮͯ̾͛͆̚ 
 </div>
