@@ -9,9 +9,9 @@
 
 
 
- [!Note]
+> [!Note]
 > <details>    
->  <summary>↓ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ↓</summary>
+>  <summary>↓ ‎̖̗̘̙̜̝̞̟̠̤̥̦̩̪̫̬̭̮̯̰ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ↓</summary>
 >
 > - **Name**: 
 > - **From**: 
