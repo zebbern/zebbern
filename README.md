@@ -45,7 +45,7 @@
 > </details>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zebbern&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=490)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zebbern&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=400)](https://git.io/streak-stats)
 
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
@@ -74,11 +74,9 @@
 </div>
 
 
-<!-- 
+
 <a href="https://github.com/zebbern/">
     <img width=900 src="https://github-profile-trophy.vercel.app/?username=zebbern&column=9&theme=gruvbox&no-frame=true"/>
 </a>
 
-Adds Trophies on the readme
--->
 
