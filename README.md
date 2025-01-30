@@ -2,27 +2,6 @@
 <img src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
 </div>
 
-
-<div align="center">
-  <img src="black.png" width="17%" height="100" alt="Left Image">
-  <img src="arrow2.png" width="13%" height="50" alt="Right Image">
-  <img src="test9.gif" width="20%" height="200" alt="Center Image">
-  <img src="arrow2b.png" width="13%" height="50" alt="Right Image">
-  <img src="blue.png" width="17%" height="100" alt="Right Image">
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><br><b>👨‍💻 Ethical Hacker</b></td>
-      <td align="center"><br><b>🛡️ CompTIA Security+</b></td>
-      <td align="center"><br><b>🏆 CEH</b></td>
-      <td align="center"><br><b>👨‍💻 OSCP In Progress</b></td>
-    </tr>
-  </table>
-</div>
-
-
 > [!Warning]
 > <details>    
 >  <summary>↓ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ↓‎ </summary>
@@ -43,6 +22,27 @@
 > - 3
 >
 > </details>
+
+
+<div align="center">
+  <img src="black.png" width="17%" height="100" alt="Left Image">
+  <img src="arrow2.png" width="13%" height="50" alt="Right Image">
+  <img src="test9.gif" width="20%" height="200" alt="Center Image">
+  <img src="arrow2b.png" width="13%" height="50" alt="Right Image">
+  <img src="blue.png" width="17%" height="100" alt="Right Image">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><br><b>👨‍💻 Ethical Hacker</b></td>
+      <td align="center"><br><b>🛡️ CompTIA Security+</b></td>
+      <td align="center"><br><b>🏆 CEH</b></td>
+      <td align="center"><br><b>👨‍💻 OSCP In Progress</b></td>
+    </tr>
+  </table>
+</div>
+
 
   <div align="center">
 
