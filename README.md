@@ -46,7 +46,7 @@
 
   <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/3b86dfb0-47bd-4761-a553-c76f6436b451" width="250" />
+  <img src="https://github.com/user-attachments/assets/3b86dfb0-47bd-4761-a553-c76f6436b451" width="200" />
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=zebbern&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=350)
 </div>
