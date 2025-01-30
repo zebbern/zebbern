@@ -28,11 +28,6 @@
   </table>
 </div>
 
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/c105ca81-3ac0-4f27-bb69-350bcfd456d1" alt="output" height="409"/>
-</div>
-
 
 > [!Note]
 > <details>    
