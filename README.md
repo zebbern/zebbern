@@ -81,8 +81,4 @@
 
 
 
-<a href="https://github.com/zebbern/">
-    <img width=900 src="https://github-profile-trophy.vercel.app/?username=zebbern&column=9&theme=gruvbox&no-frame=true"/>
-</a>
-
 
