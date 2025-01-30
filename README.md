@@ -23,7 +23,7 @@
 </div>
 
 
-> [!Note]
+> [!Warning]
 > <details>    
 >  <summary>↓ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ↓‎ </summary>
 >
@@ -44,8 +44,9 @@
 >
 > </details>
 
-
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=zebbern&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=400)](https://git.io/streak-stats)
+
 
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
