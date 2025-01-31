@@ -43,7 +43,7 @@
 <div align="center">
   
 
-![Untitled_Export_V5](https://github.com/user-attachments/assets/eb7902aa-cd70-4c4a-9b9f-d9f890461f0a)
+<img src="https://github.com/user-attachments/assets/eb7902aa-cd70-4c4a-9b9f-d9f890461f0a" width="120">
 
 
 <hr>
@@ -80,10 +80,12 @@
   
   </div>
 
-> ‮
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=zebbern&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=350)
+
+>
 
 <hr>
   <div align="center">
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=zebbern&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=350)
 </div>
