@@ -70,33 +70,31 @@
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=zebbern&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=350)
 
->
+> 2025
 
 <hr>
-  <div align="center">
-  </div>
+
 </div>
 
-> ⚠ **Warning**  
-> **This section contains information about me. Proceed if interested!**  
 
-<details>
-  <summary>⬇️ **About Me** ⬇️</summary>
-
-  ### 👤 Who am I?
-  - **Name:** Zebbern  
-  - **Role:** 🛡️ Bug Hunter | 🔍 Security Researcher | 🕵️ Forensics Analyst  
-
-  ### 💻 My Expertise
-  - 🧩 **Reverse Engineering** | 🦠 **Malware Analysis**  
-  - 🎯 Specializing in **Website Vulnerabilities & Exploits**  
-  - 🕶️ Skills: **Cracking, Reverse Engineering, Bug Hunting, Forensics, Social Engineering, Spying**  
-
-  ### 🚀 Currently Exploring
-  - Expanding my knowledge in **Cybersecurity & Exploit Development**  
-  - Learning **everything I can get my hands on!**  
-
-  ### 📩 Contact Me
-  - 📧 **Email:** [gitconnect@proton.me](mailto:gitconnect@proton.me)  
-</details>
+> [!Warning]
+> <details>    
+> <summary>⬇️ About Me ⬇️</summary>
+>
+>  ### 👤 Who am I?
+>  - **Name:** Zebbern  
+>  - **Role:** 🛡️ Bug Hunter | 🔍 Security Researcher | 🕵️ Forensics Analyst  
+>
+>  ### 💻 My Expertise
+>  - 🧩 **Reverse Engineering** | 🦠 **Malware Analysis**  
+>  - 🎯 Specializing in **Website Vulnerabilities & Exploits**  
+>  - 🕶️ Skills: **Cracking, Reverse Engineering, Bug Hunting, Forensics, Social Engineering, Spying**  
+>
+>  ### 🚀 Currently Exploring
+>  - Expanding my knowledge in **Cybersecurity & Exploit Development**  
+>  - Learning **everything I can get my hands on!**  
+>
+>  ### 📩 Contact Me
+>  - 📧 **Email:** [gitconnect@proton.me](mailto:gitconnect@proton.me)  
+> </details>
 
