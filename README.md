@@ -26,6 +26,8 @@
 <br>
 
 <div align="center">
+  
+<hr>
 
 > **Tools and technologies I work with!**
 
