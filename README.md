@@ -54,11 +54,9 @@
 
 
 <div align="center">
-<h2>🚀 **Skills**</h2> 
+<h2>🚀 Skills</h2> 
 
-
-> **Explore my technical expertise**  
-Tools and technologies I work with!
+> **Tools and technologies I work with!**
 
   
   <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
