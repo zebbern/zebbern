@@ -2,18 +2,6 @@
 <img src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
 </div>
 
-> [!Warning]
-> <details>    
->  <summary>↓ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ↓‎ </summary>
->
-> - **Name:** zebbern 
-> - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-> - i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy.
-> -**Reverse Engineering**, **Malware Analysis**
-> - Improving knowledge in **Website Vulnerabilities**
-> - I’m currently learning **everything** 
-> - Reach me out at **gitconnect@proton.me**
-
 
 
 <div align="center">
@@ -88,3 +76,15 @@
   <div align="center">
   </div>
 </div>
+
+> [!Warning]
+> <details>    
+>  <summary>↓ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ↓‎ </summary>
+>
+> - **Name:** zebbern 
+> - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
+> - i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy.
+> -**Reverse Engineering**, **Malware Analysis**
+> - Improving knowledge in **Website Vulnerabilities**
+> - I’m currently learning **everything** 
+> - Reach me out at **gitconnect@proton.me**
