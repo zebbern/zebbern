@@ -38,10 +38,15 @@
 
 
 
-
+<br>
 
 <div align="center">
-<h2>🚀 Skills</h2> 
+  
+
+![Untitled_Export_V5](https://github.com/user-attachments/assets/eb7902aa-cd70-4c4a-9b9f-d9f890461f0a)
+
+
+<hr>
 
 > **Tools and technologies I work with!**
 
