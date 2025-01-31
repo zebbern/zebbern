@@ -13,7 +13,7 @@
 > -**Reverse Engineering**, **Malware Analysis**
 > - Improving knowledge in **Website Vulnerabilities**
 > - I’m currently learning **everything** 
-> - Reach me out at **kali@proton.me**
+> - Reach me out at **gitconnect@proton.me**
 > <details>
 >  <summary>↓ 𝙀𝙭𝙩𝙧𝙖 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨 ↓</summary>
 >
