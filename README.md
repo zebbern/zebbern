@@ -6,8 +6,7 @@
 > <details>    
 >  <summary>↓ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ↓‎ </summary>
 >
-> - **Name**: 
-> - **From**: 
+> - **Name*zebbern*: 
 > - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
 > - i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy.
 > -**Reverse Engineering**, **Malware Analysis**
