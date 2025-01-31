@@ -23,21 +23,13 @@
   </table>
 </div>
 
-
-
-
 <br>
 
 <div align="center">
-  
-
-<img src="https://github.com/user-attachments/assets/eb7902aa-cd70-4c4a-9b9f-d9f890461f0a" width="120">
-
-
-<hr>
 
 > **Tools and technologies I work with!**
 
+<hr>
   
   <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
@@ -69,8 +61,6 @@
 
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=zebbern&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=350)
-
-> 2025
 
 <hr>
 
