@@ -77,14 +77,26 @@
   </div>
 </div>
 
-> [!Warning]
-> <details>    
->  <summary>↓ 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ↓‎ </summary>
->
-> - **Name:** zebbern 
-> - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-> - i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy.
-> -**Reverse Engineering**, **Malware Analysis**
-> - Improving knowledge in **Website Vulnerabilities**
-> - I’m currently learning **everything** 
-> - Reach me out at **gitconnect@proton.me**
+> ⚠ **Warning**  
+> **This section contains information about me. Proceed if interested!**  
+
+<details>
+  <summary>⬇️ **About Me** ⬇️</summary>
+
+  ### 👤 Who am I?
+  - **Name:** Zebbern  
+  - **Role:** 🛡️ Bug Hunter | 🔍 Security Researcher | 🕵️ Forensics Analyst  
+
+  ### 💻 My Expertise
+  - 🧩 **Reverse Engineering** | 🦠 **Malware Analysis**  
+  - 🎯 Specializing in **Website Vulnerabilities & Exploits**  
+  - 🕶️ Skills: **Cracking, Reverse Engineering, Bug Hunting, Forensics, Social Engineering, Spying**  
+
+  ### 🚀 Currently Exploring
+  - Expanding my knowledge in **Cybersecurity & Exploit Development**  
+  - Learning **everything I can get my hands on!**  
+
+  ### 📩 Contact Me
+  - 📧 **Email:** [gitconnect@proton.me](mailto:gitconnect@proton.me)  
+</details>
+
