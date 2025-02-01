@@ -1,9 +1,9 @@
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
 </div>
-<div align="center">
-
-## Hi there!👋
+<div align="center"
+  
+> ## Hi there!👋
 
 </div>
 
@@ -32,11 +32,11 @@
 
 <div align="center">
   
-<hr>
+---
 
-> **Tools and technologies I work with!**
+> <h3 id="github_work" align='center'>Tools and technologies I work with!</h3>
 
-<hr>
+
   
   <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
@@ -65,15 +65,12 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
   
-<hr>
+---
 
-> **GitHub Stats 👨‍💻**
+> <h3 id="github_stats" align='center'>GitHub Stats 👨‍💻</h3>
 
-<hr>
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=zebbern&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=350)
-
-<hr>
 
 </div>
 
