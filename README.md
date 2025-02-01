@@ -21,7 +21,7 @@
 >  ### 💻 My Expertise
 >  - 🧩 **Reverse Engineering** | 🦠 **Malware Analysis**  
 >  - 🎯 Specializing in **Website Vulnerabilities & Exploits**  
->  - 🕶️ Skills: **Reverse Engineering, Bug Hunting, Forensics, Social Engineering**  
+>  - 🕶️ Skills: **Reverse Engineering, Bug Hunting, Digital Forensics, Social Engineering, OSINT, Malware Analysis**  
 >
 >  ### 🚀 Currently Exploring
 >  - Expanding my knowledge in **Cybersecurity & Exploit Development**  
