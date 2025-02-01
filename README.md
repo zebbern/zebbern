@@ -69,7 +69,7 @@
 </div>
 
 
-> [!Warning]
+> [!Note]
 > <details>    
 > <summary>⬇️ About Me ⬇️</summary>
 >
