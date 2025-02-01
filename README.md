@@ -69,15 +69,26 @@
 
 > <h3 id="github_stats" align='center'>GitHub Stats 👨‍💻</h3>
 
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=zebbern&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=350)
-
 </div>
+
+<p align="center">
+  <a href="https://github.com/zebbern/github-readme-stats">
+    <img src="https://streak-stats.demolab.com?user=zebbern&theme=transparent&hide_border=true&border_radius=0&card_width=400&card_height=)](https://git.io/streak-stats" width="450"/>
+  </a>
+  <br>
+  <a href="https://github.com/zebbern/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=%20" width="450"/>
+  </a>
+  <a href="https://github.com/zebbern/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebbern&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="360"/>
+  </a>
+</p>
+
 
 
 > [!Note]
 > <details>    
-> <summary>⬇️ About Me ⬇️</summary>
+> <summary>𝐀𝐛𝐨𝐮𝐭 𝐦𝐞</summary>
 >
 >  ### 👤 Who am I?
 >  - **Name:** Zebbern  
@@ -95,4 +106,18 @@
 >  ### 📩 Contact Me
 >  - 📧 **Email:** [gitconnect@proton.me](mailto:gitconnect@proton.me)  
 > </details>
+> <details> 
+> <summary>𝐏𝐫𝐞𝐬𝐞𝐧𝐭 𝐒𝐭𝐚𝐭𝐮𝐬</summary>
+> 
+> <img width="25%" align="right" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59" alt="Cybersecurity Image">
+> 
+> 🔹 **Still Learning**: Bug hunting & malware forensics.  
+> 🔹 **Community Leadership**: Managing tech communities & creating content.  
+> 🔹 **Development**: Writing useful tools for myself & the community.  
+> 🔹 **Open Source**: Building & contributing to various projects.  
+> 🔹 **Currently Exploring**: Mobile pentesting & Web3 security.  
+> 
+> 📌 `Updating`: *Journey to becoming a Cybersecurity Specialist.*
+---
+
 
