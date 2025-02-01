@@ -74,7 +74,7 @@
 
 
 
-> <h3 align="center">GitHub Stats 👨‍💻</h3>
+> <h3 align="center">GitHub Stats</h3>
 
 
 
