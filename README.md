@@ -1,5 +1,6 @@
 <div>
-👾 𝐁𝐮𝐠 𝐇𝐮𝐧𝐭𝐞𝐫 <img align="right" src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
+👾 𝐁𝐮𝐠 𝐇𝐮𝐧𝐭𝐞𝐫 <img align="right" src="https://komarev.com/ghpvc/?username=zebbern&color=blue&style=flat-square">
+
 </div>
 
 
