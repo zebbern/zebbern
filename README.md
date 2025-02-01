@@ -2,11 +2,10 @@
 👾 𝐁𝐮𝐠 𝐇𝐮𝐧𝐭𝐞𝐫 <img align="right" src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
 </div>
 
-
 <div align="center" 
-  <>  
   
-> ## Hi there!👋
+![tesgithub](https://github.com/user-attachments/assets/ebdf7518-6268-4f04-a8bb-49e5db11799d)
+
 
 </div>
 
