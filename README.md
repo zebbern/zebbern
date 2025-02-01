@@ -120,4 +120,5 @@
 > 📌 `Updating`: *Journey to becoming a Cybersecurity Specialist.*
 ---
 
+[![Mail](https://img.shields.io/badge/Email-gitconnect@proton.me-red?style=flat&logo=gmail&logoColor=white)](mailto:gitconnect@proton.me)
 
