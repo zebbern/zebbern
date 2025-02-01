@@ -1,7 +1,9 @@
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
+<div>
+👾 𝐁𝐮𝐠 𝐇𝐮𝐧𝐭𝐞𝐫 <img align="right" src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
 </div>
-<div align="center"
+
+<div align="center" 
+  <>  
   
 > ## Hi there!👋
 
