@@ -1,14 +1,12 @@
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
 </div>
-
-<hr>
 <div align="center">
 
-> Hi there!👋
+## Hi there!👋
 
 </div>
-<hr>
+
 
 
 <div align="center">
