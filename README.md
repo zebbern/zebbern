@@ -7,6 +7,43 @@
 
 </div>
 
+> [!Note]
+> <details>    
+> <summary>𝐀𝐛𝐨𝐮𝐭 𝐦𝐞</summary>
+>
+>  ### 👤 Who am I?
+>  - **Name:** Zebbern  
+>  - **Role:** 🛡️ Bug Hunter | 🔍 Security Researcher | 🕵️ Forensics Analyst  
+>
+>  ### 💻 My Expertise
+>  - 🧩 **Reverse Engineering** | 🦠 **Malware Analysis**  
+>  - 🎯 Specializing in **Website Vulnerabilities & Exploits**  
+>  - 🕶️ Skills: **Cracking, Reverse Engineering, Bug Hunting, Forensics, Social Engineering, Spying**  
+>
+>  ### 🚀 Currently Exploring
+>  - Expanding my knowledge in **Cybersecurity & Exploit Development**  
+>  - Learning **everything I can get my hands on!**  
+> </details>
+>
+> <details> 
+> <summary>𝐏𝐫𝐞𝐬𝐞𝐧𝐭 𝐒𝐭𝐚𝐭𝐮𝐬</summary>
+> 
+> <img width="25%" align="right" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59" alt="Cybersecurity Image">
+> 
+> 🔹 **Still Learning**: Bug hunting & malware forensics.  
+> 🔹 **Community Leadership**: Managing tech communities & creating content.  
+> 🔹 **Development**: Writing useful tools for myself & the community.  
+> 🔹 **Open Source**: Building & contributing to various projects.  
+> 🔹 **Currently Exploring**: Mobile pentesting & Web3 security.  
+> 
+> 📌 `Updating`: *Journey to becoming a Cybersecurity Specialist.*
+> </details>
+> <a href="mailto:gitconnect@proton.me">
+>     <img src="https://img.shields.io/badge/gitconnect@proton.me-gray?style=flat&logo=gmail&logoColor=white)](mailto:gitconnect@proton.me" alt="Email Me">
+> </a>
+
+
+
 
 
 <div align="center">
@@ -29,6 +66,8 @@
 </div>
 
 <br>
+
+
 
 <div align="center">
   
@@ -88,48 +127,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebbern&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=1E90FF&text_color=C9D1D9" width="360"/>
   </a>
 </p>
-
-
-
-
-> [!Note]
-> <details>    
-> <summary>𝐀𝐛𝐨𝐮𝐭 𝐦𝐞</summary>
->
->  ### 👤 Who am I?
->  - **Name:** Zebbern  
->  - **Role:** 🛡️ Bug Hunter | 🔍 Security Researcher | 🕵️ Forensics Analyst  
->
->  ### 💻 My Expertise
->  - 🧩 **Reverse Engineering** | 🦠 **Malware Analysis**  
->  - 🎯 Specializing in **Website Vulnerabilities & Exploits**  
->  - 🕶️ Skills: **Cracking, Reverse Engineering, Bug Hunting, Forensics, Social Engineering, Spying**  
->
->  ### 🚀 Currently Exploring
->  - Expanding my knowledge in **Cybersecurity & Exploit Development**  
->  - Learning **everything I can get my hands on!**  
->
->  ### 📩 Contact Me
->  - 📧 **Email:** [gitconnect@proton.me](mailto:gitconnect@proton.me)  
-> </details>
-> <details> 
-> <summary>𝐏𝐫𝐞𝐬𝐞𝐧𝐭 𝐒𝐭𝐚𝐭𝐮𝐬</summary>
-> 
-> <img width="25%" align="right" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59" alt="Cybersecurity Image">
-> 
-> 🔹 **Still Learning**: Bug hunting & malware forensics.  
-> 🔹 **Community Leadership**: Managing tech communities & creating content.  
-> 🔹 **Development**: Writing useful tools for myself & the community.  
-> 🔹 **Open Source**: Building & contributing to various projects.  
-> 🔹 **Currently Exploring**: Mobile pentesting & Web3 security.  
-> 
-> 📌 `Updating`: *Journey to becoming a Cybersecurity Specialist.*
-> </details>
-> <summary>
->
-> [![Mail](https://img.shields.io/badge/gitconnect@proton.me-red?style=flat&logo=gmail&logoColor=white)](mailto:gitconnect@proton.me)
->
-> </summary>
----
-
 
