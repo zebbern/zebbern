@@ -2,6 +2,7 @@
 👾 𝐁𝐮𝐠 𝐇𝐮𝐧𝐭𝐞𝐫 <img align="right" src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
 </div>
 
+
 <div align="center" 
   <>  
   
@@ -9,7 +10,7 @@
 
 </div>
 
-> [!Note]
+> [!Note] 
 > <details>    
 > <summary>𝐀𝐛𝐨𝐮𝐭 𝐦𝐞</summary>
 >
