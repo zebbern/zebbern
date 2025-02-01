@@ -73,12 +73,10 @@
 
 
 
-<div align="center" 
-  <>  
-  
-> ## GitHub Stats 👨‍💻
 
-</div>
+> <h3 align="center">GitHub Stats 👨‍💻</h3>
+
+
 
 <p align="center">
   <!-- GitHub Streak Stats -->
