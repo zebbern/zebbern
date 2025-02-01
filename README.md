@@ -72,6 +72,31 @@
 
 
 
+
+<div align="center">
+
+> <h3 id="github_stats" align='center'>GitHub Stats 👨‍💻</h3>
+
+</div>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/zebbern/github-readme-stats">
+    <img src="https://streak-stats.demolab.com?user=zebbern&theme=transparent&hide_border=true&border_radius=10&stroke=282A36&ring=1E90FF&fire=FF4500&currStreakLabel=1E90FF&dates=C9D1D9" width="450"/>
+  </a>
+  <br>
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/zebbern/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=1E90FF&text_color=C9D1D9&icon_color=FFD700" width="450"/>
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/zebbern/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebbern&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=1E90FF&text_color=C9D1D9" width="360"/>
+  </a>
+</p>
+
 <div align="center">
   
 ---
@@ -108,26 +133,3 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
   
 ---
-
-> <h3 id="github_stats" align='center'>GitHub Stats 👨‍💻</h3>
-
-</div>
-
-<p align="center">
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/zebbern/github-readme-stats">
-    <img src="https://streak-stats.demolab.com?user=zebbern&theme=transparent&hide_border=true&border_radius=10&stroke=282A36&ring=1E90FF&fire=FF4500&currStreakLabel=1E90FF&dates=C9D1D9" width="450"/>
-  </a>
-  <br>
-
-  <!-- GitHub Stats -->
-  <a href="https://github.com/zebbern/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=1E90FF&text_color=C9D1D9&icon_color=FFD700" width="450"/>
-  </a>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/zebbern/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebbern&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=1E90FF&text_color=C9D1D9" width="360"/>
-  </a>
-</p>
-
