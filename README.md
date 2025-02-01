@@ -72,17 +72,23 @@
 </div>
 
 <p align="center">
+  <!-- GitHub Streak Stats -->
   <a href="https://github.com/zebbern/github-readme-stats">
-    <img src="https://streak-stats.demolab.com?user=zebbern&theme=transparent&hide_border=true&border_radius=0&card_width=400&card_height=)](https://git.io/streak-stats" width="450"/>
+    <img src="https://streak-stats.demolab.com?user=zebbern&theme=transparent&hide_border=true&border_radius=10&stroke=282A36&ring=1E90FF&fire=FF4500&currStreakLabel=1E90FF&dates=C9D1D9" width="450"/>
   </a>
   <br>
+
+  <!-- GitHub Stats -->
   <a href="https://github.com/zebbern/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=%20" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=1E90FF&text_color=C9D1D9&icon_color=FFD700" width="450"/>
   </a>
+
+  <!-- Top Languages -->
   <a href="https://github.com/zebbern/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebbern&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="360"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebbern&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=1E90FF&text_color=C9D1D9" width="360"/>
   </a>
 </p>
+
 
 
 
@@ -118,7 +124,12 @@
 > 🔹 **Currently Exploring**: Mobile pentesting & Web3 security.  
 > 
 > 📌 `Updating`: *Journey to becoming a Cybersecurity Specialist.*
+> </details>
+> <summary>
+>
+> [![Mail](https://img.shields.io/badge/gitconnect@proton.me-red?style=flat&logo=gmail&logoColor=white)](mailto:gitconnect@proton.me)
+>
+> </summary>
 ---
 
-[![Mail](https://img.shields.io/badge/Email-gitconnect@proton.me-red?style=flat&logo=gmail&logoColor=white)](mailto:gitconnect@proton.me)
 
