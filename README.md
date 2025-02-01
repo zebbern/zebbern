@@ -73,9 +73,10 @@
 
 
 
-<div align="center">
-
-> <h3 id="github_stats" align='center'>GitHub Stats 👨‍💻</h3>
+<div align="center" 
+  <>  
+  
+> ## GitHub Stats 👨‍💻
 
 </div>
 
