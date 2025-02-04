@@ -90,7 +90,7 @@
 
   <!-- Top Languages -->
   <a href="https://github.com/zebbern/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebbern&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=1E90FF&text_color=C9D1D9" width="360"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebbern&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=1E90FF&text_color=C9D1D9" width="340"/>
   </a>
 </p>
 
