@@ -39,7 +39,7 @@
 > 
 > 📌 `Updating`: *Journey to becoming a Cybersecurity Specialist.*
 > </details>
-> <a href="mailto:gitconnect@proton.me">
+> <a href="mailto:github.contact@proton.me">
 >     <img src="https://img.shields.io/badge/gitconnect@proton.me-gray?style=flat&logo=gmail&logoColor=white)](mailto:gitconnect@proton.me" alt="Email Me">
 > </a>
 
