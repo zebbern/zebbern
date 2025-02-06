@@ -78,18 +78,18 @@
 
 <p align="center">
   <!-- GitHub Streak Stats -->
-  <a href="https://github.com/zebbern/github-readme-stats">
+  <a href="https://github.com/zebbern/github-readme-S-stats">
     <img src="https://streak-stats.demolab.com?user=zebbern&theme=transparent&hide_border=true&border_radius=10&stroke=282A36&ring=1E90FF&fire=FF4500&currStreakLabel=1E90FF&dates=C9D1D9" width="50%"/>
   </a>
   <br>
 
   <!-- GitHub Stats -->
-  <a href="https://github.com/zebbern/github-readme-stats">
+  <a href="https://github.com/zebbern/github-readme-G-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=zebbern&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=1E90FF&text_color=C9D1D9&icon_color=FFD700" width="50%"/>
   </a>
 
   <!-- Top Languages -->
-  <a href="https://github.com/zebbern/github-readme-stats">
+  <a href="https://github.com/zebbern/github-readme-L-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebbern&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=1E90FF&text_color=C9D1D9" width="39%"/>
   </a>
 </p>
