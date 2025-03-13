@@ -45,7 +45,7 @@
 
 <div align="left">
 
-  <img width="40%" align="center" src="zebberncode.png" alt="Cybersecurity Image">
+  <img width="35%" align="center" src="zebberncode.png" alt="Cybersecurity Image">
 
 <kbd>
   
@@ -149,32 +149,33 @@
 
 <div align="center">
 
-
-<h3><a href="https://github.com/zebbern"><img src="https://img.icons8.com/material-outlined/20/808080/github.png" alt="GitHub"></a> Contact Information <a href="https://github.com/zebbern"><img src="https://img.icons8.com/material-outlined/20/808080/github.png" alt="GitHub"></a></h3>
-
-<p align="center">
+<h3>Connect Via 
+  <br>
+  <br>
+  <p align="center">
   <a href="https://twitter.com/none" target="_blank">
-    <img alt="Twitter" src="https://img.icons8.com/?size=512&id=13963&format=png" width="40px">
+    <img alt="Twitter" src="https://img.icons8.com/?size=512&id=13963&format=png" width="35px">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/none/" target="_blank">
-    <img alt="LinkedIn" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="40px">
+    <img alt="LinkedIn" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="35px">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/none" target="_blank">
-    <img alt="Instagram" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="40px">
+    <img alt="Instagram" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="35px">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:kali485@tutamail.com">
-    <img alt="Email" src="https://img.icons8.com/color/48/000000/email.png" width="40px">
+    <img alt="Email" src="https://img.icons8.com/color/48/000000/email.png" width="35px">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://zebbern.github.io/" target="_blank">
-    <img alt="Blog" src="https://img.icons8.com/color/48/000000/domain.png" width="40px">
+    <img alt="Blog" src="https://img.icons8.com/color/48/000000/domain.png" width="35px">
   </a>
-</p>
-
+</p></h3> 
 
 ![zebbern](https://www.hackthebox.eu/badge/image/21322) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![zebbern](https://tryhackme-badges.s3.amazonaws.com/soon.png)
+
+
 
 </div>
