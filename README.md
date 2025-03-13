@@ -149,7 +149,35 @@
 <br>
 <br>
 
-<a href="mailto:kali485@tutamail.com">
-  <a href="https://github.com/zebbern"><img src="https://img.icons8.com/material-outlined/20/808080/github.png" alt="GitHub"></a>  <img src="https://img.shields.io/badge/kali485@tutamail.com-gray?style=flat&logo=gmail&logoColor=white)](mailto:kali485@tutamail.com" alt="Email Me">  <a href="https://github.com/zebbern"><img src="https://img.icons8.com/material-outlined/20/808080/github.png" alt="GitHub"></a>
+</div>
+
+---
+
+<div align="center">
+
+<h3><a href="https://github.com/zebbern"><img src="https://img.icons8.com/material-outlined/20/808080/github.png" alt="GitHub"></a> Contact Information <a href="https://github.com/zebbern"><img src="https://img.icons8.com/material-outlined/20/808080/github.png" alt="GitHub"></a></h3>
 
 </div>
+
+
+<p align="center">
+  <a href="https://twitter.com/none" target="_blank">
+    <img alt="Twitter" src="https://img.icons8.com/?size=512&id=13963&format=png" width="40px">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/none/" target="_blank">
+    <img alt="LinkedIn" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="40px">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/none" target="_blank">
+    <img alt="Instagram" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="40px">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:kali485@tutamail.com">
+    <img alt="Email" src="https://img.icons8.com/color/48/000000/email.png" width="40px">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://zebbern.github.io/" target="_blank">
+    <img alt="Blog" src="https://img.icons8.com/color/48/000000/domain.png" width="40px">
+  </a>
+</p>
