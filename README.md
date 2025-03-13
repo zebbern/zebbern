@@ -7,13 +7,11 @@
 
 <details>
   <summary align="center">
-    <strong>
-      <sup>
-        <h2>
-          Click <code>Here</code> To Learn More About Me!
-        </h2>
-      </sup>
-    </strong>
+    <br>
+        <h3>
+          Click <code>Here</code> For More About Me!
+        </h3>
+    <br>
   </summary>
 
 ---
@@ -88,7 +86,7 @@
 </div>
 
 <div align="center">
-  <table border="1" cellspacing="0" cellpadding="8">
+  <table border="2">
     <tr>
       <td align="center"><kbd>👨‍💻 Ethical Hacker</kbd></td>
       <td align="center"><kbd>🛡️ CompTIA Security+</kbd></td>
@@ -102,7 +100,7 @@
 <br>
 <br>
 
-<h4 align="center"><strong><code>Github Stats</code></h1></strong></h4>
+<h3 align="center"><code>Github Stats</code></h3>
 
 <p align="center" id="merr">
   <!-- GitHub Streak Stats -->
@@ -111,13 +109,13 @@
   </a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zebbern&show_icons=true&theme=dark&border_radius=6&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebbern&layout=compact&theme=dark&border_radius=6&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" width="34%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zebbern&show_icons=true&theme=dark&border_radius=10&hide_border=true&bg_color=0D1117&title_color=3DAEE9&text_color=CCD6F6&icon_color=3DAEE9" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebbern&layout=compact&theme=dark&border_radius=10&hide_border=true&bg_color=0D1117&title_color=3DAEE9&text_color=CCD6F6" width="36%"/>
 </p>
 
   <br>
 
-<h4 align="center"><code>Tools and technologies I work with!</code></h4>
+<h3 align="center"><code>Tools and technologies I work with!</code></h3>
 
 <div align="center">
 
