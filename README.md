@@ -86,7 +86,7 @@
 </div>
 
 <div align="center">
-  <table border="2">
+  <table border="1">
     <tr>
       <td align="center"><kbd>👨‍💻 Ethical Hacker</kbd></td>
       <td align="center"><kbd>🛡️ CompTIA Security+</kbd></td>
