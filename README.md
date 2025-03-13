@@ -101,7 +101,6 @@
 
 <br>
 <br>
-<br>
 
 <h4 align="center"><strong><code>Github Stats</code></h1></strong></h4>
 
