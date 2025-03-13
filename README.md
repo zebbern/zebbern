@@ -155,10 +155,8 @@
 
 <div align="center">
 
+
 <h3><a href="https://github.com/zebbern"><img src="https://img.icons8.com/material-outlined/20/808080/github.png" alt="GitHub"></a> Contact Information <a href="https://github.com/zebbern"><img src="https://img.icons8.com/material-outlined/20/808080/github.png" alt="GitHub"></a></h3>
-
-</div>
-
 
 <p align="center">
   <a href="https://twitter.com/none" target="_blank">
@@ -181,3 +179,8 @@
     <img alt="Blog" src="https://img.icons8.com/color/48/000000/domain.png" width="40px">
   </a>
 </p>
+
+
+![zebbern](https://www.hackthebox.eu/badge/image/21322) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![zebbern](https://tryhackme-badges.s3.amazonaws.com/soon.png)
+
+</div>
