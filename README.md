@@ -96,12 +96,6 @@
   </table>
 </div>
 
-
-<br>
-<br>
-
-<h3 align="center"><code>Github Stats</code></h3>
-
 <p align="center" id="merr">
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/zebbern/github-readme-streak-stats">
