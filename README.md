@@ -174,8 +174,18 @@
   </a>
 </p></h3> 
 
-![zebbern](https://www.hackthebox.eu/badge/image/21322) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![zebbern](https://tryhackme-badges.s3.amazonaws.com/soon.png)
+<!-- ![zebbern](https://www.hackthebox.eu/badge/image/21322) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![zebbern](https://tryhackme-badges.s3.amazonaws.com/soon.png) -->
 
 
 
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/zebbern/pip-error-fixes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zebbern&repo=pip-error-fixes&theme=dark" width="380px"/>
+  </a>
+  <a href="https://github.com/zebbern/pythonfix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zebbern&repo=pythonfix&theme=dark" width="380px"/>
+  </a>
 </div>
