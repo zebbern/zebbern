@@ -178,13 +178,4 @@
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/zebbern/pip-error-fixes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zebbern&repo=pip-error-fixes&theme=dark" width="380px"/>
-  </a>
-  <a href="https://github.com/zebbern/pythonfix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zebbern&repo=pythonfix&theme=dark" width="380px"/>
-  </a>
-</div>
-
 
