@@ -109,7 +109,7 @@
 
   <br>
 
-<h3 align="center"><code>Tools and technologies I work with!</code></h3>
+<h3 align="center"><code>Tools & technologies I work with!</code></h3>
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="59" height="59" />&nbsp;&nbsp;
