@@ -112,18 +112,19 @@
 <h3 align="center"><code>Tools and technologies I work with!</code></h3>
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60" />&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="60" height="60" />&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" />&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" height="60" />&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="60" height="60" />&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="60" height="60" />&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60" height="60" />&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60" />&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="59" height="59" />
 </p>
+
 
 </div>
 
