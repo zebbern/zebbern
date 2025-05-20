@@ -136,11 +136,7 @@
   <br>
   <br>
   <p align="center">
-  <a href="https://twitter.com/none" target="_blank">
-    <img alt="Twitter" src="https://img.icons8.com/?size=512&id=13963&format=png" width="35px">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/none/" target="_blank">
+  <a href="https://www.linkedin.com/in/zebastianrodsten/" target="_blank">
     <img alt="LinkedIn" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="35px">
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -148,7 +144,7 @@
     <img alt="Instagram" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="35px">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:kali485@tutamail.com">
+  <a href="mailto:z_r@tuta.com">
     <img alt="Email" src="https://img.icons8.com/color/48/000000/email.png" width="35px">
   </a>
   &nbsp;&nbsp;&nbsp;
