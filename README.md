@@ -97,10 +97,9 @@
 </div>
 
 <p align="center" id="merr">
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/zebbern/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zebbern&theme=transparent&hide_border=true&ring=1E90FF&fire=FF4500&currStreakLabel=1E90FF" width="50%"/>
-  </a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zebbern&theme=transparent&hide_border=true&ring=1E90FF&fire=FF4500&currStreakLabel=1E90FF" width="50%"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zebbern&show_icons=true&theme=dark&border_radius=10&hide_border=true&bg_color=0D1117&title_color=3DAEE9&text_color=CCD6F6&icon_color=3DAEE9" width="47%"/>
