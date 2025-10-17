@@ -135,11 +135,11 @@
   <br>
   <br>
   <p align="center">
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/zebastianrodsten/" target="_blank">
     <img alt="LinkedIn" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="35px">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/none" target="_blank">
+  <a href="https://instagram.com/zebastian04" target="_blank">
     <img alt="Instagram" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="35px">
   </a>
   &nbsp;&nbsp;&nbsp;
