@@ -134,15 +134,15 @@
 <h3>Connect Via 
   <br>
   <br>
-  # <p align="center">
-  # <a href="https://www.linkedin.com/in//" target="_blank">
-  #  <img alt="LinkedIn" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="35px">
-  # </a>
+  <p align="center">
+  <a href="https://www.linkedin.com/in//" target="_blank">
+  <img alt="LinkedIn" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="35px">
+   </a>
    &nbsp;&nbsp;&nbsp;
-  # <a href="https://instagram.com/" target="_blank">
-  #   <img alt="Instagram" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="35px">
-  # </a>
-  # &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/" target="_blank">
+  <img alt="Instagram" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" width="35px">
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:z_r@tuta.com">
     <img alt="Email" src="https://img.icons8.com/color/48/000000/email.png" width="35px">
   </a>
