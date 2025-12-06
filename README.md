@@ -131,6 +131,7 @@
 
 <div align="center">
 
+<!--
 <h3>Connect Via 
   <br>
   <br>
@@ -152,7 +153,7 @@
   </a>
 </p></h3> 
 
-<!-- ![zebbern](https://www.hackthebox.eu/badge/image/21322) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![zebbern](https://tryhackme-badges.s3.amazonaws.com/soon.png) -->
+ ![zebbern](https://www.hackthebox.eu/badge/image/21322) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![zebbern](https://tryhackme-badges.s3.amazonaws.com/soon.png) -->
 
 </div>
 
