@@ -96,20 +96,27 @@
   </table>
 </div>
 
+<br>
 
-  <br>
+<div align="center">
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zebbern&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zebbern&theme=holi)
+
+</div>
+
+<br>
 
 <h3 align="center"><code>Mostly Work With:</code></h3>
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="59" height="59" />&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="59" height="59" />&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="59" height="59" />&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="59" height="59" />&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="59" height="59" />&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="59" height="59" />&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="59" height="59" />&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="59" height="59" />&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="59" height="59" />&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="59" height="59" />&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="59" height="59" />
@@ -142,5 +149,4 @@
 <!-- ![zebbern](https://www.hackthebox.eu/badge/image/21322) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![zebbern](https://tryhackme-badges.s3.amazonaws.com/soon.png) -->
 
 </div>
-
 
