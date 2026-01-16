@@ -1,7 +1,7 @@
 <div>
   <h5>
-    <img align="left" src="https://img.shields.io/badge/BugHunter%20Earnings-%24614-blue?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/zebbern)">
-    <img align="right" src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
+<img align="left" src="https://img.shields.io/badge/BugHunter%20Earnings-%24614-blue?style=plastic&logo=hackerone&logoColor=white">
+<img align="right" src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
   </h5>
 </div>
 
@@ -100,9 +100,8 @@
 
 <div align="center">
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zebbern&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zebbern&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zebbern&theme=holi)
 
 </div>
 
