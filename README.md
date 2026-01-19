@@ -140,7 +140,7 @@
     <img alt="Email" src="https://img.icons8.com/color/48/000000/email.png" width="35px">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://zebbern.github.io/" target="_blank">
+  <a href="https://zebbern.vercel.app" target="_blank">
     <img alt="Blog" src="https://img.icons8.com/color/48/000000/domain.png" width="35px">
   </a>
 </p></h3> 
