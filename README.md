@@ -1,78 +1,110 @@
 <div>
   <h5>
-<img align="left" src="https://img.shields.io/badge/BugHunter%20Earnings-%24614-blue?style=plastic&logo=hackerone&logoColor=white">
-<img align="right" src="https://komarev.com/ghpvc/?username=zebbern&color=brightgreen&style=plastic">
+<img align="left" src="https://www.hackthebox.com/badge/image/2705785">
+<img align="right" src="https://komarev.com/ghpvc/?username=zebbern&label=Profile+views&color=2d3748&style=for-the-badge">
   </h5>
 </div>
 
+<div align="center">
+
 <details>
   <summary align="center">
-    <br>
-        <h3>
-          Click <code>Here</code> For More About Me!
-        </h3>
-    <br>
+        <pre><h3>Click Box For More About Me :p </h3></pre>
   </summary>
-
----
 
 <div align="left" id="about-me">
 
-  <a href="#"><img width="22%" align="right" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59" alt="Cybersecurity Image"></a>
+# Zebbern
 
-<kbd>
+```mermaid
+---
+config:
+  theme: neo-dark
+  layout: fixed
+---
+flowchart TB
+ subgraph ID["About Me"]
+        name["<b>Name: Zebbern</b>"]
+        role["Bug Hunter
+        Security Researcher
+        Agentic Systems Builder"]
+        web["🌐 zebbern.com"]
+        job["💼 Fullstack Developer"]
+        n1["Roles:"]
+        n2["Website:"]
+        n3["Name:"]
+        n4["Current:"]
+  end
+ subgraph IMPACT["PROOF OF IMPACT"]
+        i1["3,000+ ⭐ open-source project adopted globally"]
+        i2["40+ reusable AI pentesting skills"]
+        i3["🥇 Onsite CTF podium placements"]
+        i4["🐛 Active bug bounty & vulnerability research"]
+  end
+ subgraph SEC["Offensive Security"]
+        s1["Cloud &amp; Web Pentesting<br>AWS / Azure / IAM"]
+        s2["Web & API Vulnerability Research"]
+        s3["Attack paths & privilege escalation"]
+  end
+ subgraph AI["AI Tooling & Agentic Systems"]
+        a1["AI-assisted pentesting workflows"]
+        a2["Claude Code skills & agents"]
+        a3["Open-source security tooling"]
+  end
+ subgraph BUILD["🔧 What I Build"]
+        b1["Reusable AI security skills & playbooks"]
+        b2["Automation for recon & exploitation"]
+        b3["Open-source tools people actually use"]
+  end
+ subgraph EXPERTISE["MY EXPERTISE"]
+        SEC
+        AI
+        BUILD
+  end
+ subgraph LEARNING["STILL LEARNING"]
+        l1["Ai Agent Orchestration, RAG memory & Ai Systems"]
+  end
+ subgraph COMMUNITY["🌐 COMMUNITY"]
+        c1["Maintaining widely adopted open-source projects"]
+  end
+ subgraph TALK["💬 TALK TO ME ABOUT"]
+        t1["Cloud attack paths & IAM abuse"]
+        t2["AI-assisted pentesting & agentic security"]
+        t3["Security tooling & methodology design"]
+  end
+    IMPACT --> EXPERTISE
+    EXPERTISE --> LEARNING & COMMUNITY & TALK
+    TALK --> updating["↻ <b>Currently Building:</b> Scalable offensive security systems"]
+    n1 --> role
+    n2 --> web
+    n3 --> name
+    n4 --> job
+    ID --> IMPACT
 
-<h2>👤 Who am I?</h2>
+    n1@{ shape: text}
+    n2@{ shape: text}
+    n3@{ shape: text}
+    n4@{ shape: text}
+     n1:::Sky
+     n2:::Sky
+     n3:::Sky
+     n4:::Sky
+    classDef Sky stroke-width:1px, stroke-dasharray:none, stroke:#374D7C, fill:#E2EBFF, color:#374D7C
+    style n1 color:none,stroke:none
+    style n3 color:none,stroke:none
+    style n4 color:none,stroke:none
+```
 
-<h3><b>🔹 Name: Zebbern</h3>
-<h3><b>🔹 Role:  <kbd>🛡️ Bug Hunter|🔍 Security Researcher|🕵️ Forensics Analyst</kbd></h3>
+---
 
+**Bug Hunter** • **Security Researcher** • **Agentic Systems Builder**
 
-<h2>💻 My Expertise</h2>
-
-<h3><b>🔹 🧩 Reverse Engineering | 🦠 Malware Analysis</h3> 
-<h3><b>🔹 🎯 Specializing in Website Vulnerabilities & Exploits</h3> 
-<h3><b>🔹 🕶️ Skills: <kbd>Bug Hunting, Digital Forensics, Social Engineering, OSINT</h3>
-
-<h2>🚀 Currently Exploring</h2>
-
-<h3><b>🔹 Expanding my knowledge in Cybersecurity & Exploit Development</h3> 
-<h3><b>🔹 Learning everything I can get my hands on!</h3> 
-
-</kbd> 
-
-</div>
-
-<div align="left">
-
-  <img width="35%" align="center" src="zebberncode.png" alt="Cybersecurity Image">
-
-<kbd>
-  
-<h3> Still Learning:</h3>
-
-<kbd>🔹<strong>Bug hunting & malware forensics.</strong></kbd> 
-
-<h3>Community Leadership:</h3>
-  
-<kbd>🔹<strong>Managing tech communities & creating content.</strong></kbd>
-
-<h3>Development:</h3> 
-
-<kbd>🔹<strong>Writing useful tools for myself & the community.</strong></kbd> 
-
-<h3>Open Source:</h3> 
-
- <kbd>🔹<strong>Building & contributing to various projects.</strong></kbd>
-
-<h3>Currently Exploring:</h3>
-
- <kbd>🔹<strong>Mobile pentesting & Web3 security.</strong></kbd>
-
-
- <h3> ↻  <kbd>`Updating`</kbd> : Journey to becoming a Cybersecurity Specialist.</kbd></h3>
+Visit: [zebbern.com](https://zebbern.com)
 
 </details>
+</div>
+
+
 </div>
 
 <div align="center">
@@ -97,8 +129,6 @@
 </div>
 
 <div align="center">
-
-[![zebbern](https://www.hackthebox.com/badge/image/2705785)](https://app.hackthebox.com/users/2705785)
 
 <br>
 
