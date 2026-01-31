@@ -96,9 +96,11 @@
   </table>
 </div>
 
-<br>
-
 <div align="center">
+
+[![zebbern](https://www.hackthebox.eu/badge/image/21322)](https://app.hackthebox.com/users/2705785)
+
+<br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zebbern&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zebbern&theme=holi)
@@ -145,7 +147,7 @@
   </a>
 </p></h3> 
 
-<!-- ![zebbern](https://www.hackthebox.eu/badge/image/21322) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![zebbern](https://tryhackme-badges.s3.amazonaws.com/soon.png) -->
+ <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![zebbern](https://tryhackme-badges.s3.amazonaws.com/soon.png) -->
 
 </div>
 
