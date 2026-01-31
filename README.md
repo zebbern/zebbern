@@ -98,7 +98,7 @@
 
 <div align="center">
 
-[![zebbern](https://www.hackthebox.com/badge/image/21322)](https://app.hackthebox.com/users/2705785)
+[![zebbern](https://www.hackthebox.com/badge/image/2705785)](https://app.hackthebox.com/users/2705785)
 
 <br>
 
