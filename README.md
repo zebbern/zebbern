@@ -14,8 +14,6 @@
 
 <div align="left" id="about-me">
 
-# Zebbern
-
 ```mermaid
 ---
 config:
