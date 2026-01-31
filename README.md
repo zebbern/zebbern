@@ -35,13 +35,13 @@ flowchart TB
         n4["Current Hired As:"]
   end
  subgraph SEC["🔓 Offensive Security"]
-        s1["Cloud &amp; Web Pentesting<br>AWS / Azure / IAM"]
+        s1["Web Pentesting<br>AWS / Azure / IAM"]
         s2["Web & API Vulnerability Research"]
         s3["Attack paths & privilege escalation"]
   end
  subgraph AI["AI Tooling &amp; Agentic Systems"]
         a1["AI-assisted pentesting workflows"]
-        a2["Claude Code skills & agents"]
+        a2["Claude Code skills &amp; agents"]
         a3["Open-source security tooling"]
   end
  subgraph BUILD["What I Build"]
@@ -55,7 +55,7 @@ flowchart TB
         BUILD
   end
  subgraph LEARNING["Currently Learning More About"]
-        l1["Agentic Systems, exploit reliability & System Security"]
+        l1["1. Agentic Systems<br>2. exploit reliability<br>3. System Security"]
   end
  subgraph COMMUNITY["🌐 COMMUNITY"]
         c1["Maintaining widely adopted open-source projects"]
