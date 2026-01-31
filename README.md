@@ -17,8 +17,9 @@
 ```mermaid
 ---
 config:
-  theme: neo-dark
+  theme: dark
   layout: fixed
+  look: neo
 ---
 flowchart TB
  subgraph ID["About Me"]
@@ -26,30 +27,24 @@ flowchart TB
         role["Bug Hunter
         Security Researcher
         Agentic Systems Builder"]
-        web["🌐 zebbern.com"]
+        web["zebbern.com"]
         job["💼 Fullstack Developer"]
         n1["Roles:"]
-        n2["Website:"]
+        n2["Portfolio:"]
         n3["Name:"]
-        n4["Current:"]
+        n4["Current Hired As:"]
   end
- subgraph IMPACT["PROOF OF IMPACT"]
-        i1["3,000+ ⭐ open-source project adopted globally"]
-        i2["40+ reusable AI pentesting skills"]
-        i3["🥇 Onsite CTF podium placements"]
-        i4["🐛 Active bug bounty & vulnerability research"]
-  end
- subgraph SEC["Offensive Security"]
+ subgraph SEC["🔓 Offensive Security"]
         s1["Cloud &amp; Web Pentesting<br>AWS / Azure / IAM"]
         s2["Web & API Vulnerability Research"]
         s3["Attack paths & privilege escalation"]
   end
- subgraph AI["AI Tooling & Agentic Systems"]
+ subgraph AI["AI Tooling &amp; Agentic Systems"]
         a1["AI-assisted pentesting workflows"]
         a2["Claude Code skills & agents"]
         a3["Open-source security tooling"]
   end
- subgraph BUILD["🔧 What I Build"]
+ subgraph BUILD["What I Build"]
         b1["Reusable AI security skills & playbooks"]
         b2["Automation for recon & exploitation"]
         b3["Open-source tools people actually use"]
@@ -59,8 +54,8 @@ flowchart TB
         AI
         BUILD
   end
- subgraph LEARNING["STILL LEARNING"]
-        l1["Ai Agent Orchestration, RAG memory & Ai Systems"]
+ subgraph LEARNING["Currently Learning More About"]
+        l1["Agentic Systems, exploit reliability & System Security"]
   end
  subgraph COMMUNITY["🌐 COMMUNITY"]
         c1["Maintaining widely adopted open-source projects"]
@@ -70,14 +65,13 @@ flowchart TB
         t2["AI-assisted pentesting & agentic security"]
         t3["Security tooling & methodology design"]
   end
-    IMPACT --> EXPERTISE
     EXPERTISE --> LEARNING & COMMUNITY & TALK
     TALK --> updating["↻ <b>Currently Building:</b> Scalable offensive security systems"]
     n1 --> role
     n2 --> web
     n3 --> name
     n4 --> job
-    ID --> IMPACT
+    ID --> EXPERTISE
 
     n1@{ shape: text}
     n2@{ shape: text}
@@ -91,6 +85,7 @@ flowchart TB
     style n1 color:none,stroke:none
     style n3 color:none,stroke:none
     style n4 color:none,stroke:none
+    click web "https://zebbern.com/"
 ```
 
 ---
