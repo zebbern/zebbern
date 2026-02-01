@@ -125,8 +125,8 @@ Visit: [zebbern.com](https://zebbern.com)
 
 <br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zebbern&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zebbern&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zebbern&theme=ayu_mirage)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zebbern&theme=ayu_mirage)
 
 </div>
 
@@ -157,7 +157,7 @@ Visit: [zebbern.com](https://zebbern.com)
   <br>
   <br>
   <p align="center">
-  <a href="https://www.linkedin.com/in//" target="_blank">
+  <a href="https://www.linkedin.com/in/zebastianrodsten/" target="_blank">
   <img alt="LinkedIn" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="35px">
    </a>
   &nbsp;&nbsp;&nbsp;
@@ -165,7 +165,7 @@ Visit: [zebbern.com](https://zebbern.com)
     <img alt="Email" src="https://img.icons8.com/color/48/000000/email.png" width="35px">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://zebbern.vercel.app" target="_blank">
+  <a href="https://zebbern.com" target="_blank">
     <img alt="Blog" src="https://img.icons8.com/color/48/000000/domain.png" width="35px">
   </a>
 </p></h3> 
