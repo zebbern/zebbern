@@ -114,9 +114,9 @@ Visit: [zebbern.com](https://zebbern.com)
   <table border="1">
     <tr>
       <td align="center"><kbd>👨‍💻 Ethical Hacker</kbd></td>
-      <td align="center"><kbd>🛡️ CompTIA Security+</kbd></td>
-      <td align="center"><kbd>🏆 CEH</kbd></td>
-      <td align="center"><kbd>💻 OSCP In Progress</kbd></td>
+      <td align="center"><kbd>🛡️ Automation+</kbd></td>
+      <td align="center"><kbd>🏆 Fullstack</kbd></td>
+      <td align="center"><kbd>💻 Certs In Progress</kbd></td>
     </tr>
   </table>
 </div>
