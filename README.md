@@ -100,7 +100,7 @@ Visit: [zebbern.com](https://zebbern.com)
 <div align="center">
 
 
-[CVE Assignments zebbernCVE](https://github.com/zebbernCVE)
+**[CVE Assignments zebbernCVE](https://github.com/zebbernCVE)**
     
   <img src="black.png" width="17%" alt="Left Image">
   <img src="arrow2.png" width="13%" alt="Right Image">
