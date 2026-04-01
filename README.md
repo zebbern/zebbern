@@ -9,7 +9,7 @@
 
 <details>
   <summary align="center">
-        <pre><h3>Click Box For More About Me :p </h3></pre>
+        <pre><h3>Click Box For More About Me! </h3></pre>
   </summary>
 
 <div align="left" id="about-me">
@@ -28,13 +28,13 @@ flowchart TB
         Security Researcher
         Agentic Systems Builder"]
         web["zebbern.com"]
-        job["💼 Fullstack Developer"]
+        job["Fullstack Developer"]
         n1["Roles:"]
         n2["Portfolio:"]
         n3["Name:"]
         n4["Current Hired As:"]
   end
- subgraph SEC["🔓 Offensive Security"]
+ subgraph SEC["Offensive Security"]
         s1["Web Pentesting<br>AWS / Azure / IAM"]
         s2["Web & API Vulnerability Research"]
         s3["Attack paths & privilege escalation"]
@@ -57,10 +57,10 @@ flowchart TB
  subgraph LEARNING["Currently Learning More About"]
         l1["1. Agentic Systems<br>2. exploit reliability<br>3. System Security"]
   end
- subgraph COMMUNITY["🌐 COMMUNITY"]
+ subgraph COMMUNITY["COMMUNITY"]
         c1["Maintaining widely adopted open-source projects"]
   end
- subgraph TALK["💬 TALK TO ME ABOUT"]
+ subgraph TALK["TALK TO ME ABOUT"]
         t1["Cloud attack paths & IAM abuse"]
         t2["AI-assisted pentesting & agentic security"]
         t3["Security tooling & methodology design"]
