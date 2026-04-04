@@ -157,7 +157,7 @@ Visit: [zebbern.com](https://zebbern.com)
   <br>
   <br>
   <p align="center">
-  <a href="https://www.linkedin.com/in/zebastianrodsten/" target="_blank">
+  <a href="https://www.linkedin.com/in/zebbern/" target="_blank">
   <img alt="LinkedIn" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="35px">
    </a>
   &nbsp;&nbsp;&nbsp;
